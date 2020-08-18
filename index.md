@@ -5,6 +5,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Come with me
 ---
 
-Some words as a test.
+## and you'll see
+a world of pure imagination
