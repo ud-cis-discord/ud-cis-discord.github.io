@@ -1,12 +1,9 @@
 ---
-
-# Feel free to add content and custom Front Matter to this file.
-
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Home
 ---
 
-## Come with me
-## and you'll see
-a world of pure imagination
+## Why Discord?
+Discord has been used sucessfuly in the past for CISC courses. Not only does it allow an easy place for questions
+and answers, it also helps to grow a comunity, something that is increasingly dificult during covid-19. Our
+hope is that this will become both an education tool and a place for people to chat.
