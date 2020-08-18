@@ -1,9 +1,9 @@
 ---
 layout: home
+title: Welcome
 permalink: /
 ---
 
-## Welcome
 Here you will find all the information you need to get startued on the UD CIS discord server.
 ## Why Discord?
 Discord has been used sucessfuly in the past for CISC courses. Not only does it allow an easy place for questions
