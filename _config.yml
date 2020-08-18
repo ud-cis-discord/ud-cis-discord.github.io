@@ -28,6 +28,7 @@ twitter_username: ""
 github_username:  ud-cis-discord
 
 # Build settings
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
