@@ -34,7 +34,8 @@ To get more information about any command simply send `s;help command`.
 **roleinfo (aliases: membersin)** Gives information about a role, including a list of the members who have it.\
 **serverinfo** Gives useful information about the server.\
 **snippets (aliases: snippet, snip)** Easily access useful bits of information about the server.\
-**verify** Verifies a user.
+**verify** Verifies a user.\
+**rules** Shows a rule.
 
 ### Fun Commands
 **remind (aliases: remindme)** Set personal reminders for yourself.\
