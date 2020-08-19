@@ -66,7 +66,7 @@ To get more information about any command simply send `s;help command`.
 **reason** Edit the reason field for a case.\
 **timer** Add a timer to a moderation case.\
 **permissions (aliases: perms)** View the permissions of the specified member.\
-**levelsexport (aliases: report, export, getcsv)** Generates a report of user messages
+**report (aliases: export, getcsv)** Generates a report of user messages
 
 ### Admin Commands (only useable by bot owner unless noted otherwise)
 **enable** Re-enables or temporarily enables a command/inhibitor/monitor/finalizer. Default state restored on reboot.\
