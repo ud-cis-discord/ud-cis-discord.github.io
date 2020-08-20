@@ -4,16 +4,20 @@ title: About the bot
 permalink: /about-bot/
 ---
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
 Why have a bot you ask. It makes my life easier. That's why!
 ## Our lovely bot
+***
 Our bot, Sage is  built on top of the Klasa framework and the Discord.js library. Sage is custom-coded and is
 actively maintained by Ben Segal and based on Steve Bot. Sage is a a general purpose discord bot, with some added
 functionality to make online learning easier. Sage has a bunch of cool commands you can read about below but that's
-not all. Sage also keeps track of how many messages you send. This information is used by your Professor to give you 
-participation points. If you have an idea to improve Sage, you can send `s;suggest <your idea here>` in a bot spam
-channel and it will be sent directly to the eyes of Ben. 
-***
+not all. Sage also keeps track of how many messages you send. However, commands and messages sent in channels with 
+`[no message count]` in the channel topic wont increase your message count  This information is used by your
+Professor to give you participation points. If you have an idea to improve Sage, you can send `s;suggest <your idea here>`
+in a <span style="color:#738adb;">#sages_place</span> and it will be sent directly to the eyes of Ben. 
+
 ## Commands
+***
 Here is the list of all the commands that can be run. To run a command simply send `s;command` or `Sage, command`.
 To get more information about any command simply send `s;help command`.
 

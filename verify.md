@@ -4,6 +4,7 @@ title: Verification
 permalink: /verify/
 ---
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
 There are some things you won't be able to do on the server until you have been verified. To get verified,
 simply follow the link below that applies to you. If both apply to you (looking at you uTAs), go through
 both verification processes. 
