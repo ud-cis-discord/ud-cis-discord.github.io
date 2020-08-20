@@ -53,9 +53,11 @@ To get more information about any command simply send `s;help command`.
 ### Moderation Commands (only useable by staff unless noted otherwise)
 **nick** Changes a member's nickname.\
 **role** Adds or removes a role from a member.\
+**mute** Adds the server's muted role to the specified member.\
+**unmute** Removes the server's muted role from the specified member.\
+**kick** Kicks a member from the server.\
 **ban (only useable to admin level users)** Bans a member from the server.\
 **unban (only useable to admin level users)** Unbans a user.\
-**kick** Kicks a member from the server.\
 **viewlevel (aliases: lc)** Lets you check how many messages another user has sent.\
 **resetlevel** Resets a users message count.\
 **lock** Locks a channel from public posting.\

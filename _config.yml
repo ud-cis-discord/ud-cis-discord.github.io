@@ -33,6 +33,8 @@ theme: minima
 header_pages:
   - about_bot.md
   - getting_started.md
+  - verify.md
+
 plugins:
   - jekyll-feed
 
