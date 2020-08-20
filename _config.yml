@@ -35,6 +35,9 @@ header_pages:
   - getting_started.md
   - verify.md
 
+minima:
+  skin: dark
+
 plugins:
   - jekyll-feed
 
