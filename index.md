@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 ---
-
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 ![Welcome](/welcome.png "Welcome")
 
 Here you will find all the information you need to get started on the UD CIS discord server.

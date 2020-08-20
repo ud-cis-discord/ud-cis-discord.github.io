@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with Discord
 permalink: /getting-started/
 ---
-
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 If you don't already have a discord account, click [here](https://discord.com/register "Welcome to discord") to create one!
 Make sure you have verified your email address as you won't be able to join the server until you have. Once you have your
 account setup, find the server invite link on your courses canvas page. If it's not there or has expired, [email Ben](mailto:bensegal@udel.edu)
