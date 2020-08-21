@@ -23,14 +23,22 @@ what pronouns a member uses. They are assigned the same way and if your pronouns
 
 ## Channels
 ***
-We've got a lot of channels so we have broken them up into categories. We have two categories non-course specific conversation in addition to a 
+We've got a lot of channels so we have broken them up into categories. We have some categories for non-course specific conversation in addition to a 
 category for each course. Our channels list changes every now and again but we will try to keep the list below up to date.
 
+### General Channels
+<hr style="margin-left: 0px; width: 40%;">
+
+Messages aren't counted in any of these channels since none of them are for a particular class.\
+</br>
 <span style="text-decoration: underline; color:#738adb;">📣announcements</span>\
 This is where all server wide announcements will be posted. Information about Discord outages will also be posted here (assuming messages can 
 be sent during the outage). We recommend adding a
 <a href="https://support.discord.com/hc/en-us/articles/215253258-Notifications-Settings-101#h_570c11eb-b007-4e7c-8ae8-77515ea40c6a" 
 target="_blank">notification override</a> for this channel so you always know what's going on.
+
+<span style="text-decoration: underline; color:#738adb;">#rules</span>\
+This channel lists the rules. Make sure you read through it when you first arrive so know how the server runs.
 
 <span style="text-decoration: underline; color:#738adb;">#general</span>\
 As it says in the name, this channel is for general chatting. Talk about computer science or not! Anything goes here. Sage doesn't keep 
@@ -43,3 +51,9 @@ purpose you ask? Its because there are a lot of you and sometime people want to 
 <span style="text-decoration: underline; color:#738adb;">#sages_place</span>\
 You can go wild with Sage commands here. Set all the reminders, rate all the things, ask the 8ball a million questions! Go nuts!
 
+### Class Specific Channels
+<hr style="margin-left: 0px; width: 40%;">
+
+Each class has a unique set of channels to serve that particular classes needs. Messages send in these channels will increase your
+count unless specified otherwise in the channel topic. We recommend muting class categories for classes you are not in. To do this
+simply right click the category name (or long press if on mobile) and select **Mute Category** then **Until I turn it back on**.
