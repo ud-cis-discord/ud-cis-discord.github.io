@@ -5,7 +5,7 @@ permalink: /about-bot/
 ---
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
-Why have a bot you ask. It makes my life easier. That's why!
+Why have a bot, you ask? It makes life easier, That's why!
 ## Our lovely bot
 ***
 Our bot, Sage is  built on top of the Klasa framework and the Discord.js library. Sage is custom-coded and is
