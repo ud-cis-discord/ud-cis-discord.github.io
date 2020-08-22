@@ -9,7 +9,7 @@ Why have a bot you ask. It makes my life easier. That's why!
 ## Our lovely bot
 ***
 Our bot, Sage is  built on top of the Klasa framework and the Discord.js library. Sage is custom-coded and is
-actively maintained by Ben Segal and based on Steve Bot. Sage is a a general purpose discord bot, with some added
+actively maintained by Ben Segal and based on Steve Bot. Sage is a a general purpose Discord bot, with some added
 functionality to make online learning easier. Sage has a bunch of cool commands you can read about below but that's
 not all. Sage also keeps track of how many messages you send. However, commands and messages sent in channels with 
 `[no message count]` in the channel topic wont increase your message count  This information is used by your
