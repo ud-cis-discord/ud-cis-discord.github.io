@@ -31,9 +31,10 @@ github_username:  ud-cis-discord
 markdown: GFM
 theme: minima
 header_pages:
-  - about_bot.md
   - getting_started.md
   - verify.md
+  - rules.md
+  - about_bot.md
 
 plugins:
   - jekyll-feed

@@ -12,7 +12,8 @@ account setup, find the server invite link on your courses canvas page. If it's 
 with the name of the course you are taking and an invite link will be sent back to you. If you have never used Discord before
 you may want to check out [Discord's Beginners Guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord "Get learnt").
 Once you are on the server you are almost ready to go. Students, head over [here](/verify/students/ "Let's go") for instructions on getting verified!
-Professors and TAs, click [here](/verify/teachers/ "Teaching time").
+Professors and TAs, click [here](/verify/teachers/ "Teaching time"). Before you get started chatting, make sure you read the rules. You can
+do that on the server in <span style="color:#738adb;">#rules</span>, or you can check out the [rules page](/rules/ "Da Rules") here on the website.
 
 ## Roles
 ***

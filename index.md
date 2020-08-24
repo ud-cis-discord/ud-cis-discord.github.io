@@ -16,6 +16,9 @@ hope is that this will become both an education tool and a place for people to c
 ## Ready to get started?
 ### [Hop on over here](/getting-started/)
 
+## Make sure you've read our server rules!
+### [They are quite useful you know](/rules/)
+
 ## Looking for information about our bot Sage?
 ### [That's over here](/about-bot/)
 
