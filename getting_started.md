@@ -52,6 +52,10 @@ purpose you ask? Its because there are a lot of you and sometime people want to 
 <span style="text-decoration: underline; color:#738adb;">#sages_place</span>\
 You can go wild with Sage commands here. Set all the reminders, rate all the things, ask the 8ball a million questions! Go nuts!
 
+<span style="text-decoration: underline; color:#738adb;">#voice_1 and 🔊Voice 1</span>\
+These channels are for voice chat. <span style="color: #738abd">🔊Voice 1</span> is where you can go to talk to other students.
+If you want to reference a link or just don't feel like talking, send messages in <span style="color: #738abd">#voice_1</span>!
+
 ### Class Specific Channels
 <hr style="margin-left: 0px; width: 40%;">
 
