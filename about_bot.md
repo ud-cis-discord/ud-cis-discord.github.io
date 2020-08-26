@@ -62,7 +62,7 @@ To get more information about any command simply send `s;help command`.
 **kick** Kicks a member from the server.\
 **ban (only useable to admin level users)** Bans a member from the server.\
 **unban (only useable to admin level users)** Unbans a user.\
-**viewlevel (aliases: lc)** Lets you check how many messages another user has sent.\
+**lookup** Looks up a users verification information and message count.\
 **resetlevel** Resets a users message count.\
 **lock** Locks a channel from public posting.\
 **unlock** Unlocks a channel.\
