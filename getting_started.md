@@ -18,9 +18,23 @@ do that on the server in <span style="color:#738adb;">#rules</span>, or you can 
 ## Roles
 ***
 If you don't know, Discord uses Roles to give users permissions and as tags. Roles allow staff to post announcements and display names with different colors. You can
-use Sage to assign yourself some roles that will help the staff to help you. To see the list send `s;assign list` in <span style="color:#738adb;">#sages_place</span> and you can give yourself one of those roles using `s;assign <role name>`. There is a role for each class and we ask that you assign yourself the role
+use Sage to assign yourself some roles that will help the staff to help you. To see the list send `s;assign list` in <span style="color:#738adb;">#sages_place</span>
+ and you can give yourself one of those roles using `s;assign <role name>`. There is a role for each class and we ask that you assign yourself the role
 for your class. If you are in more than one CISC class, assign more than one role! We also have pronoun roles. They are optional but can be helpful for knowing 
 what pronouns a member uses. They are assigned the same way and if your pronouns aren't on the list just let Ben know and he'll be happy to add them.
+
+### Awards
+<hr style="margin-left: 0px; width: 40%;">
+
+We also have a handful of awards you can earn just by chatting on discord. Just start chatting and Sage will let you know if you have earned a new role.
+More awards are added on a regular basis so there is always more to earn.
+
+### Skilled Users
+<hr style="margin-left: 0px; width: 40%;">
+
+Has another student been helping you out? If so, nominate them to be a Skilled User! Skilled Users are your fellow students who like to help out and have
+a cool looking green name. To nominate another student send, `s;nominate @username` over in <span style="color:#738adb;">#sages_place</span> and the staff
+will review the nomination.
 
 ## Channels
 ***
@@ -49,12 +63,17 @@ track of messages here so chatting with your friends wont give you participation
 This is just like <span style="color:#738adb;">#general</span>, you can chat about anything here. Why have two channels with the same
 purpose you ask? Its because there are a lot of you and sometime people want to have more than one conversation.
 
+<span style="text-decoration: underline; color:#738adb;">#gaming</span>\
+This channel is for any and all gaming related chatting. Weather you want to talk about next gen consoles, computer hardware or that latest
+Mario Kart update, <span style="text-decoration: underline; color:#738adb;">#gaming</span> is the place to do it.
+
 <span style="text-decoration: underline; color:#738adb;">#sages_place</span>\
 You can go wild with Sage commands here. Set all the reminders, rate all the things, ask the 8ball a million questions! Go nuts!
 
-<span style="text-decoration: underline; color:#738adb;">#voice_1 and 🔊Voice 1</span>\
-These channels are for voice chat. <span style="color: #738abd">🔊Voice 1</span> is where you can go to talk to other students.
-If you want to reference a link or just don't feel like talking, send messages in <span style="color: #738abd">#voice_1</span>!
+<span style="text-decoration: underline; color:#738adb;">#voice_0 and 🔊Voice 0</span>\
+These channels are for voice chat. <span style="color: #738abd">🔊Voice 0</span> is where you can go to talk to other students.
+If you want to reference a link or just don't feel like talking, send messages in <span style="color: #738abd">#voice_0</span>!
+Why start at 0 you ask? Because we are programmers and we 0 index everything.
 
 <span style="text-decoration: underline; color:#738adb;">🔊AFK</span>\
 If you have been chilling, muted & deafened, not touching your mouse and keyboard in a voice chat for 15 minutes, you will automatically
