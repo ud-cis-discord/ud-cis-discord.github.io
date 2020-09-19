@@ -12,7 +12,7 @@ Our bot, Sage is  built on top of the Klasa framework and the Discord.js library
 actively maintained by Ben Segal and based on Steve Bot. Sage is a a general purpose Discord bot, with some added
 functionality to make online learning easier. Sage has a bunch of cool commands you can read about below but that's
 not all. Sage also keeps track of how many messages you send. However, commands and messages sent in channels with 
-`[no message count]` in the channel topic wont increase your message count  This information is used by your
+`[no message count]` in the channel topic wont increase your message count. This information is used by your
 Professor to give you participation points. If you have an idea to improve Sage, you can send `s;suggest <your idea here>`
 in a <span style="color:#738adb;">#sages_place</span> and it will be sent directly to the eyes of Ben. 
 
@@ -29,7 +29,8 @@ To get more information about any command simply send `s;help command`.
 **ping** Runs a connection test to Discord.\
 **stats** Provides some details about the bot and stats.\
 **userconf** Define per-user settings.\
-**assign** Assign or unassign roles to yourself!
+**assign** Assign or unassign roles to yourself!\
+**nominate** Nominate someone to be a Skilled User.
 
 ### Information Commands
 **discstatus (aliases: discordstatus, isdiscordbroke)** Gets the current status of Discord from [status.discord.com](https://status.discord.com/ "Why not check it now")\
