@@ -17,7 +17,7 @@ do that on the server in <span style="color:#738adb;">#rules</span>, or you can 
 
 ## Roles
 ***
-If you don't know, Discord uses Roles to give users permissions and as tags. Roles allow staff to post announcements and display names with different colors. You can
+Discord uses Roles to give users permissions and as tags. Roles allow staff to post announcements and display names with different colors. You can
 use Sage to assign yourself some roles that will help the staff to help you. To see the list send `s;assign list` in <span style="color:#738adb;">#sages_place</span>
  and you can give yourself one of those roles using `s;assign <role name>`. There is a role for each class and we ask that you assign yourself the role
 for your class. If you are in more than one CISC class, assign more than one role! We also have pronoun roles. They are optional but can be helpful for knowing 
@@ -27,7 +27,7 @@ what pronouns a member uses. They are assigned the same way and if your pronouns
 <hr style="margin-left: 0px; width: 40%;">
 
 We also have a handful of awards you can earn just by chatting on discord. Just start chatting and Sage will let you know if you have earned a new role.
-More awards are added on a regular basis so there is always more to earn.
+More awards are added on a regular basis so there are always more to earn.
 
 ### Skilled Users
 <hr style="margin-left: 0px; width: 40%;">
@@ -67,6 +67,10 @@ purpose you ask? Its because there are a lot of you and sometime people want to 
 This channel is for any and all gaming related chatting. Weather you want to talk about next gen consoles, computer hardware or that latest
 Mario Kart update, <span style="text-decoration: underline; color:#738adb;">#gaming</span> is the place to do it.
 
+<span style="text-decoration: underline; color:#738adb;">#virtual_sparc</span>\
+This channel is just like the SPARC lab in Smith Hall but on Discord. You can discuss topic about any CISC class or just cool other
+projects you are doing.
+
 <span style="text-decoration: underline; color:#738adb;">#sages_place</span>\
 You can go wild with Sage commands here. Set all the reminders, rate all the things, ask the 8ball a million questions! Go nuts!
 
@@ -83,5 +87,5 @@ be moved to this voice channel to save some bandwidth for those who aren't Away 
 <hr style="margin-left: 0px; width: 40%;">
 
 Each class has a unique set of channels to serve that particular classes needs. Messages sent in these channels will increase your
-count unless specified otherwise in the channel topic. We recommend muting class categories for classes you are not in. To do this
-simply right click the category name (or long press if on mobile) and select **Mute Category** then **Until I turn it back on**.
+participation credit unless specified otherwise in the channel topic. We recommend muting class categories for classes you are not
+in. To do this simply right click the category name (or long press if on mobile) and select **Mute Category** then **Until I turn it back on**.
