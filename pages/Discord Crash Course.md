@@ -57,7 +57,7 @@ mobile), or the esc button to cancel the edit (press the x above the message on 
 Similarly to Twitter, Discord has a feature that allows you to @ people on the same guild as you. This is called a ping,
 and it is done by putting an @ in front of someone's Discord name when sending a message. For example:
 
-<img src="https://canvas.instructure.com/users/26285220/files/123645464/preview?verifier=3oAqzyl48VdNO2I0BxsUYSq5YaoS4pc4QTEqCXAF" alt="A screenshot of a message being sent to Sage, by pinging Sage with the at symbol." height="43" width="740">
+<img src="https://canvas.instructure.com/users/26285220/files/123645464/preview?verifier=3oAqzyl48VdNO2I0BxsUYSq5YaoS4pc4QTEqCXAF" alt="A screenshot of a message being sent to Sage, by pinging Sage with the at symbol.">
 
 Students: please do not ping your professors. Instead, you can ping the staff role for your course if you need
 something. This should not need to be done often, since there will almost always be staff members online, but if you
@@ -90,14 +90,14 @@ After that, you can send a message directly to a user like you would in any othe
 
 **Muting Channels:**
 
-In each channel, there will be a button that looks like this: ![A screenshot of Discord's notification bell icon.][7].
+In each channel, there will be a button that looks like this: <img src="https://canvas.instructure.com/users/26285220/files/123630337/preview?verifier=exEgiCHfedMCzLFhKKWH8VAkopomD3EaIkG3OBpq" alt = "A screenshot of Discord's notification bell icon." height="35" width="40">.
 This is how you can mute a specific channel in the guild for any amount of time that you want. The UD CIS discord guild
 will not send you any push notifications, so the only reason to ever mute a channel is to get rid of the white dot that
 shows where you have unread messages. Mobile users will have to swipe right while in the channel to see the mute button.
 
 **Voice Chat:**
 
-Some of the channels on the guild will have this symbol on the left of the channel name: ![A screenshot of Discord's voice channel icon.][8]. This means that that channel is a voice channel, instead of a texting channel. If you click on
+Some of the channels on the guild will have this symbol on the left of the channel name: <img src="https://canvas.instructure.com/users/26285220/files/123653709/preview?verifier=mZf7sEkYnJGv1sWHb2arfZSh8ygQl9Bi65JIG38S" alt = "A screenshot of Discord's voice channel icon." height="35" width="35">. This means that that channel is a voice channel, instead of a texting channel. If you click on
 a channel that has this icon, you will join a voice only chat with anybody else that is also in it (you can see if there
 are other people in the voice chat, because their names will be displayed under the channel name). You can also use
 these channels to video chat if you turn your camera on, and there is also a feature to share your screen (similar to
@@ -108,5 +108,3 @@ zoom).
    [4]: https://canvas.instructure.com/users/26285220/files/123653371/preview?verifier=cPxIPFZcvHo827sAvONQ2MEqb0G5FCcpUHAOeDQK
    [5]: https://canvas.instructure.com/users/26285220/files/123653376/preview?verifier=RajV4nestHA9VnXJviLGc2LRXBdwGWYGRe0dNWgW
    [6]: https://canvas.instructure.com/courses/2510334/files/124088926/preview?verifier=VMd62xM4U5qKtQeGPctJsjmUBQSOVZq6p7JYQzWw
-   [7]: https://canvas.instructure.com/users/26285220/files/123630337/preview?verifier=exEgiCHfedMCzLFhKKWH8VAkopomD3EaIkG3OBpq
-   [8]: https://canvas.instructure.com/users/26285220/files/123653709/preview?verifier=mZf7sEkYnJGv1sWHb2arfZSh8ygQl9Bi65JIG38S
