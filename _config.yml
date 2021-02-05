@@ -21,7 +21,7 @@
 title: UD CIS Discord
 email: bensegal@udel.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Infomation and documentation about the UD CIS Discord server.
+  Information and documentation about the UD CIS Discord server.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,13 +31,15 @@ github_username:  ud-cis-discord
 markdown: GFM
 theme: minima
 header_pages:
-  - getting_started.md
-  - verify.md
-  - rules.md
-  - about_bot.md
+  - pages/Getting Started.md
+  - pages/Verification.md
+  - pages/Sage Info.md
 
 plugins:
   - jekyll-feed
+
+include: 
+  - pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
