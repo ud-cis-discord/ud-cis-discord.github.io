@@ -34,6 +34,8 @@ header_pages:
   - pages/Getting Started.md
   - pages/Verification.md
   - pages/Sage Info.md
+  - pages.md
+  - staff pages.md
 
 plugins:
   - jekyll-feed

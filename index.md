@@ -22,5 +22,9 @@ hope is that this will become both an education tool and a place for people to c
 ## Looking for information about our bot Sage?
 ### [That's over here](/sage_info/)
 
+## Want more in depth guides?
+### [For everyone](/pages/)
+### [For staff](/staff_pages/)
+
 ## Other questions?
 ### Ask on the server or send an email to [Ben](mailto:bensegal@udel.edu), [Josh](mailto:joshlyon@udel.edu), or [Ren](mailto:briross@udel.edu).

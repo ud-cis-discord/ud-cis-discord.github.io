@@ -3,6 +3,8 @@ waltz:
   title: Question Tagging
   resource: page
   published: false
+layout: page
+title: Question Tagging
 ---
 Sage's question tagging system is a great way to see what kinds of questions other people are asking about an
 assignment. You can also help others out by tagging your own questions to assignments as you ask them. There are a

@@ -3,6 +3,8 @@ waltz:
   title: Private and Anonymous Questions
   resource: page
   published: false
+layout: page
+title: Private and Anonymous Questions
 ---
 Sometimes you may want to ask a question to the entire course staff or maybe you want to ask a question to your
 classmates anonymously. Discord normally doesn't have this functionality so we've built it into Sage. Asking both

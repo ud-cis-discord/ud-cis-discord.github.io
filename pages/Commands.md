@@ -3,6 +3,8 @@ waltz:
   title: Commands
   resource: page
   published: false
+layout: page
+title: Commands
 ---
 Here is a list of all of the commands available for Sage, with the format `s;[command] [arguments]`:
 
