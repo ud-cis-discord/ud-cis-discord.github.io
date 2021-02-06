@@ -14,7 +14,7 @@ Here is a list of all of the commands available for Sage, with the format `s;[co
 The help command can take one or no arguments. If no argument is given, you will be sent a DM with a list of all
 commands available to you and their descriptions (much like this page).  
 If you give a command name as the argument, you will be sent a DM with a detailed description of that command, its
-aliases, and its possible arguments. ****
+aliases, and its possible arguments.
 
 **info:**  
 The info command will send a message with in-depth information about our discord bot, Sage.
@@ -33,7 +33,7 @@ list of all self-assignable roles in the guild. If you give a role name as the a
 (as long as it is self-assignable).
 
 **enroll:**  
-The enroll command is described on the [Getting Started](https://canvas.instructure.com/courses/2510334/pages/getting-started?module_item_id=41523518){: .instructure_file_link .inline_disabled} page.
+The enroll command is described on the [Getting Started](https://ud-cis-discord.github.io/getting_started/) page.
 
 **stats:**  
 The stats command will display information about Sage's current status (such as uptime, memory usage, etc).
@@ -43,7 +43,7 @@ The ping command will output the amount of time it took Sage to respond to your 
 websocket ping.
 
 **discordstatus:**  
-The discordstatus command will output the current status of Discord, which can also be found on [this website](https://discordstatus.com/){: .instructure_file_link .inline_disabled}.
+The discordstatus command will output the current status of Discord, which can also be found on [this website](https://discordstatus.com/).
 
 **xkcd:**  
 The xkcd command will output a random comic, with a description.
@@ -57,8 +57,8 @@ The ultimate battle of human vs program. Can you best Sage in a round of rock pa
 
 ### Question Tagging Commands
 
-All general commands related to the question tagging system can be found on [this page](https://canvas.instructure.com/courses/2510334/pages/question-tagging?module_item_id=42012647){: .instructure_file_link .inline_disabled}. 
+All general commands related to the question tagging system can be found on [this page](https://ud-cis-discord.github.io/pages/Question%20Tagging/). 
 
 ### Staff Commands
 
-All of the staff-only commands can be found on [this page](https://canvas.instructure.com/courses/2510334/pages/staff-commands/edit){: .instructure_file_link .inline_disabled}.
+All of the staff-only commands can be found on [this page](https://ud-cis-discord.github.io/staff_pages/staff%20commands/).

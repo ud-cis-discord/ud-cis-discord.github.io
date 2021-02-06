@@ -3,6 +3,9 @@ waltz:
   title: Getting Started (Staff)
   resource: page
   published: false
+layout: page
+title: Getting Started (Staff)
+permalink: staff_pages/getting%20started%20staff
 ---
 As staff, you'll need to know how to do some things in addition to what the general UD CIS Discord user has to know. The
 following information will go over how to respond to students' private questions, add assignments to your course for use

@@ -16,11 +16,7 @@ To tag a question, use the `s;tagquestion` command. You can also use `s;tagq` or
 used by replying to a message that you'd like to link to an assignment with that assignment's ID in one of your course's
 channels as an argument: `s;tagq <assignmentID>`
 
-![Josh Lyon sent: Is Python just for making games about snakes?
-
-Josh Lyon sent (replying to the previous message): s;tagq hw2
-
-Sage sent: Added that message to the database ][25][25]
+![Josh Lyon sent: Is Python just for making games about snakes? Josh Lyon sent (replying to the previous message): s;tagq hw2 Sage sent: Added that message to the database ][25]
 
 If you're only enrolled in one CISC course, you can see the list of assignments you can tag questions to by using the
 `s;q` command. If you're enrolled in two or more courses, you'll have to specify the course you'd like to see
@@ -33,13 +29,8 @@ command, or `s;q` as shorthand, followed by the assignment that you want to find
 you're enrolled in more than one CISC course, you'll need to specify the course you're looking up as well: `s;q
 <courseID> <assignmentID>`.
 
-![Josh Lyon sent: s;q 108 hw2
-
-Sage sent: I've sent the list to your DMs.][26][26] ==> ![Sage sent: Questions for 108 hw2:
-
-  * Is Python just for making games about snakes? (click to view)
-
-  * How do I invert a binary tree? (click to view)][27][27]
+![Josh Lyon sent: s;q 108 hw2 Sage sent: I've sent the list to your DMs.][26] ==>
+![Sage sent: Questions for 108 hw2: * Is Python just for making games about snakes? (click to view) * How do I invert a binary tree? (click to view)][27]
 
 You can then click the link that says "Click to view" to go to the original message and see discussion about the
 question.
