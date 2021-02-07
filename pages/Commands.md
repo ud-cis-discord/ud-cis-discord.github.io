@@ -5,6 +5,7 @@ waltz:
   published: false
 layout: page
 title: Commands
+permalink: pages/commands
 ---
 Here is a list of all of the commands available for Sage, with the format `s;[command] [arguments]`:
 
