@@ -1,0 +1,3 @@
+# UD CIS Discord GitHub IO page
+The repo contains the documentation for the UD CIS Discord which is used to make out website.
+This repo is the place where we keep our docs up to date. Commits should™ automatically roll out to Canvas through GitHub actions and waltz. To make sure this works, the Canvas API token should be placed as a secrete on this repo. This token will change as maintainers come and go. Currently, it is tied to Ben's external Canvas account.
