@@ -19,9 +19,9 @@ is CISC 106 so any `000` would become `106`. An honors section of CISC 106 would
 ### Getting Verified
 
 Before you can start sending messages, you need to get verified. You should have already received an email from Sage,
-the bot that manages our Discord Guild. If you have not, you can request one [here][9]. In that email you will find a
-link to our gateway guild and a unique hash. Join the gateway guild and send your hash to Sage in a Direct Message. Sage
-will reply by sending you an invite link to the UD CIS Discord Guild. Once you join the guild, you have been verified!
+the bot that manages our Discord server. If you have not, you can request one [here][9]. In that email you will find a
+link to our gateway server and a unique hash. Join the gateway server and send your hash to Sage in a Direct Message. Sage
+will reply by sending you an invite link to the UD CIS Discord server. Once you join the server, you have been verified!
 
 ### Enrolling in this class
 

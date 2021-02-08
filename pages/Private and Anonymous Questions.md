@@ -19,7 +19,7 @@ DM with Sage.
 ### Asking Private Questions
 
 In your DM with Sage, you can send the word `private` followed by any question and Sage will send that question to your
-course staff. If you are enrolled in more than one course on the guild, you will need to add the course code after the
+course staff. If you are enrolled in more than one course on the server, you will need to add the course code after the
 word private. Asking a private question looks like this:
 
 ![Two Discord messages. The first, sent by a user called Ben855, says "private What's the difference between an Array and an ArrayList?" The second, sent by a bot user called Sage, says "Your question has been sent to the staff, any responses will be sent here. Question ID: 47"][18]
@@ -39,7 +39,7 @@ If you wish to ask a similar question or reply to the staff members message in a
 ### Sending Anonymous Questions
 
 In your DM with Sage, you can send the word `anonymous` (or `anon` for short) followed by any question and Sage will
-send that question to your course's general channel. If you are enrolled in more than one course on the guild, you will
+send that question to your course's general channel. If you are enrolled in more than one course on the server, you will
 need to add the course code after the word anonymous. Asking an anonymous question looks like this:
 
 ##### (DM above, general chat below)

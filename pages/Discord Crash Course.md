@@ -9,20 +9,20 @@ permalink: /crash_course/
 ---
 ### What is Discord?
 
-Discord is a guild-based instant messaging platform. Our guild, UD CIS, will be broken up into different channels based
+Discord is a server-based instant messaging platform. Our server, UD CIS, will be broken up into different channels based
 on the different computer science courses that we offer here at UD (that have agreed to participate) as well as general
-channels that everyone can use. If you've never used Discord before: you can essentially consider a guild to be one big
+channels that everyone can use. If you've never used Discord before: you can essentially consider a server to be one big
 group chat with channels being smaller, more organized group chats inside of it.
 
 ### What are roles?
 
-Each member of a guild can be given specific roles that control the permissions you are given. For example: you will be
-given the verified role in the guild after you go through the [verification][1] process, which gives you permission to
-send messages. You will also give yourself a role for each CISC course you are taking (that's on the guild) once you
+Each member of a server can be given specific roles that control the permissions you are given. For example: you will be
+given the verified role in the server after you go through the [verification][1] process, which gives you permission to
+send messages. You will also give yourself a role for each CISC course you are taking (that's on the server) once you
 enroll in the course. This role will give you permission to send and/or view messages in the channels related to your
 course(s).
 
-Each role has a color assigned to it, and the color of your name in the guild will correspond to the role that you have
+Each role has a color assigned to it, and the color of your name in the server will correspond to the role that you have
 (all verified students will have a green name). Course and Discord staff will have colors specific to them, so that they
 are distinguishable from non-staff members. Professors will have a red name, Discord Admins will have a purple name, TAs
 (teaching assistants) will have a yellow name, and LAs (lab assistants) will have an orange name.
@@ -42,7 +42,7 @@ swipe right while in the channel to see the pinned messages button.
 
 If you hover your mouse over a message (long press the message on mobile), you will see three buttons appear on the
 right side of the message. The first button allows you to react to that message with any emoji that discord has (some
-guilds have custom emojis, as well). For mobile users: this button will appear at the top of the screen that pops up
+servers have custom emojis, as well). For mobile users: this button will appear at the top of the screen that pops up
 when you long press the message (it looks like a smiling emoji with a plus sign).
 
 **Editing your message:**
@@ -54,7 +54,7 @@ mobile), or the esc button to cancel the edit (press the x above the message on 
 
 **Pinging people:**
 
-Similarly to Twitter, Discord has a feature that allows you to @ people on the same guild as you. This is called a ping,
+Similarly to Twitter, Discord has a feature that allows you to @ people on the same server as you. This is called a ping,
 and it is done by putting an @ in front of someone's Discord name when sending a message. For example:
 
 <img src="https://canvas.instructure.com/users/26285220/files/123645464/preview?verifier=3oAqzyl48VdNO2I0BxsUYSq5YaoS4pc4QTEqCXAF" alt="A screenshot of a message being sent to Sage, by pinging Sage with the at symbol.">
@@ -91,13 +91,13 @@ After that, you can send a message directly to a user like you would in any othe
 **Muting Channels:**
 
 In each channel, there will be a button that looks like this: <img src="https://canvas.instructure.com/users/26285220/files/123630337/preview?verifier=exEgiCHfedMCzLFhKKWH8VAkopomD3EaIkG3OBpq" alt = "A screenshot of Discord's notification bell icon." height="35" width="40">.
-This is how you can mute a specific channel in the guild for any amount of time that you want. The UD CIS discord guild
+This is how you can mute a specific channel in the server for any amount of time that you want. The UD CIS discord server
 will not send you any push notifications, so the only reason to ever mute a channel is to get rid of the white dot that
 shows where you have unread messages. Mobile users will have to swipe right while in the channel to see the mute button.
 
 **Voice Chat:**
 
-Some of the channels on the guild will have this symbol on the left of the channel name: <img src="https://canvas.instructure.com/users/26285220/files/123653709/preview?verifier=mZf7sEkYnJGv1sWHb2arfZSh8ygQl9Bi65JIG38S" alt = "A screenshot of Discord's voice channel icon." height="35" width="35">. This means that that channel is a voice channel, instead of a texting channel. If you click on
+Some of the channels on the server will have this symbol on the left of the channel name: <img src="https://canvas.instructure.com/users/26285220/files/123653709/preview?verifier=mZf7sEkYnJGv1sWHb2arfZSh8ygQl9Bi65JIG38S" alt = "A screenshot of Discord's voice channel icon." height="35" width="35">. This means that that channel is a voice channel, instead of a texting channel. If you click on
 a channel that has this icon, you will join a voice only chat with anybody else that is also in it (you can see if there
 are other people in the voice chat, because their names will be displayed under the channel name). You can also use
 these channels to video chat if you turn your camera on, and there is also a feature to share your screen (similar to

@@ -21,7 +21,7 @@ aliases, and its possible arguments.
 The info command will send a message with in-depth information about our discord bot, Sage.
 
 **serverinfo:**  
-The serverinfo command will send a message with information about the UD CIS Discord guild.
+The serverinfo command will send a message with information about the UD CIS Discord server.
 
 **check:**  
 The check command can take one or no arguments. If no argument is given, the output from the command will be sent to you
@@ -30,7 +30,7 @@ command in. The check command will output your current message count and level.
 
 **assign:**  
 The assign command can take one or multiple arguments. If you use the command with the word 'list,' you will be sent a
-list of all self-assignable roles in the guild. If you give a role name as the argument, Sage will assign you that role
+list of all self-assignable roles in the server. If you give a role name as the argument, Sage will assign you that role
 (as long as it is self-assignable).
 
 **enroll:**  
