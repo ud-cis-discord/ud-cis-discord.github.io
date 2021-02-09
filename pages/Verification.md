@@ -24,6 +24,6 @@ If you have any problems with the above steps, please contact one of the server'
 
    [30]: https://discord.com/register
    [31]: https://canvas.instructure.com/courses/2510334/files/124088926/preview?verifier=VMd62xM4U5qKtQeGPctJsjmUBQSOVZq6p7JYQzWw
-   [32]: mailto:joshylon@udel.edu
+   [32]: mailto:joshlyon@udel.edu
    [33]: mailto:bensegal@udel.edu
    [34]: mailto:briross@udel.edu
