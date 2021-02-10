@@ -7,6 +7,7 @@ layout: page
 title: Getting Started
 permalink: /getting_started/
 ---
+### New to Discord? Before you do anything else, go [here][10] to make an account.
 The CIS department is using Discord as a replacement for Piazza this semester. This is a quick start guide to get you
 ready to use the UD CIS Discord for this course. There are more detailed instructions and documentation in the other
 pages in this module but this page contains the basics.
@@ -54,3 +55,4 @@ course code before the assignment. If you would like to add a post to the list, 
 class you'll have to specify the course code before the assignment.
 
    [9]: https://docs.google.com/forms/d/e/1FAIpQLScvT1qb8yh2W8T2D1JK-QK_kaENRfg9UfXXV1YWQHydVg0d6g/viewform?usp=sf_link
+   [10]: https://discord.com/register

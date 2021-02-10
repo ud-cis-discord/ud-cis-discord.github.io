@@ -7,6 +7,8 @@ layout: page
 title: Discord Crash Course
 permalink: /crash_course/
 ---
+
+### Before you do anything else, go [here][7] to make an account.
 ### What is Discord?
 
 Discord is a server-based instant messaging platform. Our server, UD CIS, will be broken up into different channels based
@@ -108,3 +110,4 @@ zoom).
    [4]: https://canvas.instructure.com/users/26285220/files/123653371/preview?verifier=cPxIPFZcvHo827sAvONQ2MEqb0G5FCcpUHAOeDQK
    [5]: https://canvas.instructure.com/users/26285220/files/123653376/preview?verifier=RajV4nestHA9VnXJviLGc2LRXBdwGWYGRe0dNWgW
    [6]: https://canvas.instructure.com/courses/2510334/files/124088926/preview?verifier=VMd62xM4U5qKtQeGPctJsjmUBQSOVZq6p7JYQzWw
+   [7]: https://discord.com/register
