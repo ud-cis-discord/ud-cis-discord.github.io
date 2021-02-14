@@ -62,4 +62,4 @@ All general commands related to the question tagging system can be found on [thi
 
 ### Staff Commands
 
-All of the staff-only commands can be found on [this page](https://ud-cis-discord.github.io/staff_pages/staff%20commands/).
+All of the staff-only commands can be found on [this page](https://ud-cis-discord.github.io/staff_pages/staff%20commands).
