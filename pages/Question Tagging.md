@@ -25,7 +25,7 @@ assignments for: `s;q 108`.
 ## Finding tagged questions
 
 If you want to find questions that other people have tagged to specific assignments, you can use the `s;question`
-command, or `s;q` as shorthand, followed by the assignment that you want to find questions for: `s;q <assignmentID>` in either `#sages_place` or a DM with Sage. If you're enrolled in more than one CISC course, you'll need to specify the course you're looking up as well: `s;q
+command, or `s;q` as shorthand, followed by the assignment that you want to find questions for: `s;q <assignmentID>` in either <span style="color:#7289DA">#sages_place</span> or a DM with Sage. If you're enrolled in more than one CISC course, you'll need to specify the course you're looking up as well: `s;q
 <courseID> <assignmentID>`.
 
 ![Josh Lyon sent: s;q 108 hw2 Sage sent: I've sent the list to your DMs.][26] ==>
