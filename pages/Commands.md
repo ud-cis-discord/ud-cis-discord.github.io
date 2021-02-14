@@ -58,7 +58,7 @@ The ultimate battle of human vs program. Can you best Sage in a round of rock pa
 
 ### Question Tagging Commands
 
-All general commands related to the question tagging system can be found on [this page](https://ud-cis-discord.github.io/pages/Question%20Tagging/). 
+All general commands related to the question tagging system can be found on [this page](https://ud-cis-discord.github.io/pages/Question%20Tagging). 
 
 ### Staff Commands
 
