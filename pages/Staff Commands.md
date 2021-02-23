@@ -18,7 +18,7 @@ commands in staff-only channels.
 **roleinfo:**
 The roleinfo command takes one argument: the name of any role available on the server. It will output the current
 number of users with that role, as well as a list of those users. If the list is too long to be sent in an embed
-message, it will be uploaded to pastebin and a link to the upload will be sent instead.
+message, it will be uploaded as a file instead.
 
 **lookup:**
 The lookup command takes one argument: the name of any member of the server. It will output the given user's
@@ -35,6 +35,10 @@ take away their permission to send messages in the server, until the role is rem
 **warn:**
 The warn command takes no arguments and is used by replying to a message. It sends a DM to a user with a warning about
 breaking the rules and deletes the offending message.
+
+**whois:**
+The whois command takes one argument: the name of any member of the server. It will give you information about that
+user's Discord account but will not have any verification or message count information.
 
 ## Question Tagging Commands
 
