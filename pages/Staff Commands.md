@@ -13,38 +13,84 @@ As staff, you have access to some commands not listed in the general [commands p
 other commands, using `s;[command] [arguments]`in any channel that Sage is in, although we recommend running staff
 commands in staff-only channels.
 
-## The Commands
+### Staff Commands
 
-**roleinfo:**
-The roleinfo command takes one argument: the name of any role available on the guild. It will output the current
-number of users with that role, as well as a list of those users. If the list is too long to be sent in an embed
-message, it will be uploaded to pastebin and a link to the upload will be sent instead.
+**addassignment**
 
-**lookup:**
-The lookup command takes one argument: the name of any member of the guild. It will output the given user's
-verification status and current message count.
+- Description: Adds an assignment to a given course ID's assignment list
 
-**resetlevel:**
-The resetlevel command takes one argument: the name of any member of the guild. It will adjust the message count and
-level of the given user.
+- Usage: `s;addassignment <course ID>|<assignmentID(s)>`
 
-**mute:**
-The mute command takes one argument: the name of any member of the guild. It will give the user the 'muted' role and
-take away their permission to send messages in the guild, until the role is removed.
+- Aliases: `adda`
 
-**warn:**
-The warn command takes no arguments and is used by replying to a message. It sends a DM to a user with a warning about
-breaking the rules and deletes the offending message.
 
-## Question Tagging Commands
+**google**
 
-**addassignment:**
-The addassignment command takes two arguments: a class ID and an assignment ID. The class ID will be 000, and the
-assignment ID will be created once you use it with the command. It will add the assignment ID you chose to the settings
-document so that students can create question tags with that assignmentID.
+- Usage: `s;google Have Sage google something for someone`
 
-**sudoreply:**
-The sudoreply command takes two arguments: a question ID and an answer. The question ID will be the same ID as the
-question you are replying to, and your answer will be sent to the asker to the user's DMs via Sage.
+- Aliases: `lmgt`
+, `lmg`
 
-   [29]: https://ud-cis-discord.github.io/pages/commands (Commands)
+
+**lookup**
+
+- Description: Looks up information about a given user
+
+- Usage: `s;lookup <user>`
+
+
+**mute**
+
+- Description: Gives the muted role to the given user.
+
+- Usage: `s;mute <user>`
+
+
+**resetlevel**
+
+- Description: Resets a given user's message count.
+
+- Usage: `s;resetlevel <user>|[to_subtract|to_set_to]`
+
+- Aliases: `reset`
+
+- More info: Using with no value will reset to 0. A positive integer will
+set their message count and a negative will subtract that from their total
+
+
+**roleinfo**
+
+- Description: Gives information about a role, including a list of the members who have it.
+
+- Usage: `s;roleinfo <role>`
+
+
+**sudoreply**
+
+- Description: Reply to a question asked through Sage.
+
+- Usage: `s;sudoreply <questionID> <response>`
+
+- Aliases: `sreply`
+
+- More info: Responses get sent to the askers DMs. This command will tell you it failed if it cannot send the DM.
+
+
+**warn**
+
+- Description: Warns a user for breaking the rules and deletes the offending message.
+
+- Usage: `s;warn [reason]`
+
+- More info: This command must be used when replying to a message.
+
+
+**whois**
+
+- Description: Gives an overview of a member's info.
+
+- Usage: `s;whois <user>`
+
+- Aliases: `member`
+
+[29]: https://ud-cis-discord.github.io/pages/commands (Commands)
