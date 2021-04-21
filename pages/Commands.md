@@ -213,6 +213,29 @@ sent in the same channel that the command was used in (rather than the user's dm
 - Description: Reply to a question you previously asked with Sage.
 
 - Usage: `s;reply <questionID> <response>`
+### Question Tagging Commands
+
+**question**
+
+- Description: Filters the questionTags collection for a given class and assignment
+
+- Usage: `s;question [courseID] <assignmentID>`
+
+- Aliases: `q`
+
+- More info: Sage will automatically determine your course if you are only enrolled in one!
+
+
+**tagquestion**
+
+- Description: Tags the specified message with a given course and assignment ID.
+
+- Usage: `s;tagquestion <assignmentID>`
+
+- Aliases: `tagq`
+, `tag`
+
+- More info: This command must be used by replying to a message.
 
 More info related to the question tagging system can also be found on [this page](https://ud-cis-discord.github.io/pages/Question%20Tagging).
 ### Reminders Commands
