@@ -108,9 +108,7 @@ sent in the same channel that the command was used in (rather than the user's dm
 
 - Usage: `s;xkcd [latest | comicNumber]`
 
-- Aliases: `x`
-
-- More info: If given no paramaters, sends a random comic. You can also specify a comic by its number or get the latest comic with `latest`.
+- More info: If given no parameters, sends a random comic. You can also specify a comic by its number or get the latest comic with `latest`.
 ### Info Commands
 
 **discordstatus**
