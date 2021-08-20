@@ -17,80 +17,46 @@ commands in staff-only channels.
 
 **addassignment**
 
-- Description: Adds an assignment to a given course ID's assignment list
-
-- Usage: `s;addassignment <course ID>|<assignmentID(s)>`
-
-- Aliases: `adda`
+- Usage: `s;addassignment `
 
 
 **google**
 
-- Usage: `s;google Have Sage google something for someone`
-
-- Aliases: `lmgt`
-, `lmg`
+- Usage: `s;google `
 
 
 **lookup**
 
-- Description: Looks up information about a given user
-
-- Usage: `s;lookup <user>`
+- Usage: `s;lookup `
 
 
 **mute**
 
-- Description: Gives the muted role to the given user.
-
-- Usage: `s;mute <user>`
+- Usage: `s;mute `
 
 
 **resetlevel**
 
-- Description: Resets a given user's message count.
-
-- Usage: `s;resetlevel <user>|[to_subtract|to_set_to]`
-
-- Aliases: `reset`
-
-- More info: Using with no value will reset to 0. A positive integer will
-set their message count and a negative will subtract that from their total
+- Usage: `s;resetlevel `
 
 
 **roleinfo**
 
-- Description: Gives information about a role, including a list of the members who have it.
-
-- Usage: `s;roleinfo <role>`
+- Usage: `s;roleinfo `
 
 
 **sudoreply**
 
-- Description: Reply to a question asked through Sage.
-
-- Usage: `s;sudoreply <questionID> <response>`
-
-- Aliases: `sreply`
-
-- More info: Responses get sent to the askers DMs. This command will tell you it failed if it cannot send the DM.
+- Usage: `s;sudoreply `
 
 
 **warn**
 
-- Description: Warns a user for breaking the rules and deletes the offending message.
-
-- Usage: `s;warn [reason]`
-
-- More info: This command must be used when replying to a message.
+- Usage: `s;warn `
 
 
 **whois**
 
-- Description: Gives an overview of a member's info.
-
-- Usage: `s;whois <user>`
-
-- Aliases: `member`
+- Usage: `s;whois `
 
 [29]: https://ud-cis-discord.github.io/pages/commands (Commands)
