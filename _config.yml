@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: UD CIS Discord
-email: Ben Segal<bensegal@udel.edu>, Joshua Lyon<joshlyon@udel.edu>, Ren Ross<briross@udel.edu>
+email: Joshua Lyon<joshlyon@udel.edu> Ren Ross<briross@udel.edu>
 description: >- # this means to ignore newlines until "baseurl:"
   Information and documentation about the UD CIS Discord server.
 baseurl: "" # the subpath of your site, e.g. /blog
