@@ -26,5 +26,8 @@ hope is that this will become both an education tool and a place for people to c
 ### [For everyone](/pages/)
 ### [For staff](/staff_pages/)
 
+## Looking for the server rules?
+### [Read this page](/rules/)
+
 ## Other questions?
 ### Ask on the server or send an email to [Josh](mailto:joshlyon@udel.edu) or [Ren](mailto:briross@udel.edu).
