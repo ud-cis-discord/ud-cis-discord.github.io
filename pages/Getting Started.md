@@ -13,7 +13,7 @@ ready to use the UD CIS Discord for this course. There are more detailed instruc
 pages in this module but this page contains the basics.
 
 Throughout this module, you can replace `000` with your course code. For example General Computer Science for Engineers
-is CISC 106 so any `000` would become `106`. An honors section of CISC 106 would become `106H`.
+is CISC 106 so any `000` would become `106`. An honors section of CISC 106 would become `106-H`.
 
 * * *
 
