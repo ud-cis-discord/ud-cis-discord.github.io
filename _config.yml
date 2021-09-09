@@ -36,6 +36,7 @@ header_pages:
   - pages/Sage Info.md
   - pages.md
   - staff pages.md
+  - rules.md
 
 plugins:
   - jekyll-feed
