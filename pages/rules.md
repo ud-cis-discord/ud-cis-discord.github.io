@@ -1,8 +1,13 @@
 ---
+Waltz:
+  title: Rules
+  resource: page
+  published: false
+layout: page
+title: Rules
 redirect_from:
     - /rules
 ---
-# Server Rules
 0. Be respectful, there are no dumb questions.
 1. We encourage you to help each other! However, saying  things like "It works on my machine" or "I don't have the problem" isn't helpful.
 2. Please keep to relevant channel topics, and if a Staff member or Admin asks you to move your conversation, listen.
