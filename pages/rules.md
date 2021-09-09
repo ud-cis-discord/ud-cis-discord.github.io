@@ -1,5 +1,5 @@
 ---
-Waltz:
+waltz:
   title: Rules
   resource: page
   published: false
