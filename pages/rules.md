@@ -7,6 +7,7 @@ layout: page
 title: Rules
 redirect_from:
     - /rules
+    - /rules/
 ---
 0. Be respectful, there are no dumb questions.
 1. We encourage you to help each other! However, saying  things like "It works on my machine" or "I don't have the problem" isn't helpful.
