@@ -11,7 +11,7 @@ permalink: /crash_course/
 ### Before you do anything else, go [here][7] to make an account.
 ### What is Discord?
 
-Discord is a server-based instant messaging platform. Our server, UD CIS, will be broken up into different channels based
+Discord is a server based instant messaging platform. Our server, UD CIS, will be broken up into different channels based
 on the different computer science courses that we offer here at UD (that have agreed to participate) as well as general
 channels that everyone can use. If you've never used Discord before: you can essentially consider a server to be one big
 group chat with channels being smaller, more organized group chats inside of it.
