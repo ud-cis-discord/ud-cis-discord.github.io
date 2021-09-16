@@ -122,6 +122,11 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 - Usage: `s;anonymous `
 
 
+**archive**
+
+- Usage: `s;archive `
+
+
 **private**
 
 - Usage: `s;private `
