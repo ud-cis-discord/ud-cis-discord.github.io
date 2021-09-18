@@ -47,6 +47,11 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 - Usage: `s;8ball `
 
 
+**coinflip**
+
+- Usage: `s;coinflip `
+
+
 **doubt**
 
 - Usage: `s;doubt `
@@ -65,6 +70,11 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 **rockpaperscissors**
 
 - Usage: `s;rockpaperscissors `
+
+
+**thisisfine**
+
+- Usage: `s;thisisfine `
 
 
 **xkcd**
