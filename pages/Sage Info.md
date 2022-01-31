@@ -19,13 +19,13 @@ The UD CIS Department needs a strong tool to moderate chats for offensive speech
 
 Sage adds a lot of useful functionality to the UD CIS server. Some of the most important features of Sage include, but are not limited to:
 
-An easy to use, robust verification system to ensure server security
-Anonymous and private question asking functionality similar to that of Piazza
-Self-assignable class roles that grant access to class-specific channels
-Fun commands to encourage engagement, such as coin flipping, dice rolling, and rock-paper-scissors
-The ability for users to set reminders at specific times/intervals for themselves 
-Miscellaneous utilities such as poll creation and a user leveling system
-Student activity reports that professors can use for participation grades
+- An easy to use, robust verification system to ensure server security
+- Anonymous and private question asking functionality similar to that of Piazza
+- Self-assignable class roles that grant access to class-specific channels
+- Fun commands to encourage engagement, such as coin flipping, dice rolling, and rock-paper-scissors
+- The ability for users to set reminders at specific times/intervals for themselves 
+- Miscellaneous utilities such as poll creation and a user leveling system
+- Student activity reports that professors can use for participation grades
 
 Sage has many more features that are explained on this website’s command documentation. You can also bring up a list of commands via Discord, by entering `/help` in any channel on the UD CIS server.
 
