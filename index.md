@@ -9,9 +9,9 @@ permalink: /
 Here you will find all the information you need to get started on the UD CIS Discord server.
 
 ## Why Discord?
-Discord has been used successfully in the past for CISC courses. Not only does it allow an easy place for questions
-and answers, it also helps to grow a community, something that is increasingly difficult during covid-19. Our
-hope is that this will become both an education tool and a place for people to chat.
+Discord is a quick and easy instant messaging platform that allows for the organization and sharing of ideas and information. Unlike Piazza, where students post an issue and wait for course staff to get an email notification and reply, Discord allows students to get a reply within minutes from either fellow classmates or an online TA/LA/Professor. Students are also able to talk with fellow computer science students about their interests, experiences, and projects. This allows them to integrate into the computer science community easily, especially with the current global situation.
+
+Discord is both an educational tool and a place for CISC students to gather, chat, and form a community where everyone is welcome and questions are encouraged. Cheating and/or wrongfully sharing code is actively prohibited and moderated by Discord admins and course staff. 
 
 ## Ready to get started?
 ### First, read our [rules](#rules). Then, [hop on over here](/getting_started/).
