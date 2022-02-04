@@ -7,7 +7,7 @@ layout: page
 title: Commands
 permalink: pages/commands
 ---
-Here is a list of all of the commands available for Sage, with the format `s;command [arguments]`.
+Here is a list of all of the commands available for Sage, with the format `/command [arguments]`.
 <br>
 Note, `[argument]` denotes an optional argument while `<argument>` denotes a required argument. Brackets should be omitted when running commands.
 ### General Commands
@@ -17,7 +17,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 - Description: Use this command to assign a role to yourself! 
 	Use the argument 'list' to see a list of all self-assignable roles.
 
-- Usage: `s;assign [Role|list]`
+- Usage: `/assign [Role|list]`
 
 - Aliases: `role`
 
@@ -28,7 +28,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 	If the word 'here' is used as an argument, the message count will be 
 	sent in the same channel that the command was used in (rather than the user's dms).
 
-- Usage: `s;check [here]`
+- Usage: `/check [here]`
 
 - Aliases: `count`
 
@@ -37,7 +37,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Submit an image to the currently running contest.
 
-- Usage: `s;submit [more information]`
+- Usage: `/submit [more information]`
 
 - More info: Exactly one file must be attached when running this command.
 ### Configuration Commands
@@ -46,7 +46,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Enroll yourself in a course.
 
-- Usage: `s;enroll <course>`
+- Usage: `/enroll <course>`
 
 - Aliases: `unenroll`
 
@@ -57,7 +57,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Toggles whether or not you will receive notifications from Sage on a level up.
 
-- Usage: `s;togglelevelpings `
+- Usage: `/togglelevelpings `
 
 - Aliases: `levelpings`
 , `lp`
@@ -67,7 +67,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Toggles whether or not your personally identifiable information will be sent by instructors over Discord.
 
-- Usage: `s;togglepii `
+- Usage: `/togglepii `
 
 - Aliases: `pii`
 ### Fun Commands
@@ -76,7 +76,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Ask the 8ball a question and you shall get an answer.
 
-- Usage: `s;8ball [question]`
+- Usage: `/8ball [question]`
 
 - More info: This command requires you to put a question mark at the end of your question.
 
@@ -85,7 +85,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: You've been challenged to a sword fight. However, your opponent, Professor Roosen, has decided to wear a blindfold. Feeling lucky?
 
-- Usage: `s;blindfoldedroosen `
+- Usage: `/blindfoldedroosen `
 
 - Aliases: `br`
 , `bfr`
@@ -95,7 +95,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Have Sage flip a coin for you!
 
-- Usage: `s;coinflip `
+- Usage: `/coinflip `
 
 - Aliases: `flip`
 , `coin`
@@ -106,7 +106,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Get a random integer within a user-specified range (min and max inclusive). If no range is specified, defaults to a range from 1 to 6.
 
-- Usage: `s;diceroll [min #] | [max #]`
+- Usage: `/diceroll [min #] | [max #]`
 
 - Aliases: `random`
 , `rand`
@@ -118,7 +118,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Press x to doubt
 
-- Usage: `s;doubt `
+- Usage: `/doubt `
 
 - Aliases: `x`
 
@@ -129,7 +129,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Press F to pay respects
 
-- Usage: `s;f `
+- Usage: `/f `
 
 - Aliases: `respect`
 
@@ -138,7 +138,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Have Sage create a poll for you
 
-- Usage: `s;poll <timespan>|<question>|<choices...>`
+- Usage: `/poll <timespan>|<question>|<choices...>`
 
 - Aliases: `vote`
 
@@ -149,7 +149,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: The ultimate battle of human vs program. Can you best Sage in a round of rock paper scissors?
 
-- Usage: `s;rockpaperscissors <rock|paper|scissors>`
+- Usage: `/rockpaperscissors <rock|paper|scissors>`
 
 - Aliases: `rps`
 
@@ -158,7 +158,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: everything is fine... probably
 
-- Usage: `s;thisisfine `
+- Usage: `/thisisfine `
 
 - Aliases: `tif`
 
@@ -167,7 +167,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Find a comic from xkcd.
 
-- Usage: `s;xkcd [latest | comicNumber]`
+- Usage: `/xkcd [latest | comicNumber]`
 
 - More info: If given no parameters, sends a random comic. You can also specify a comic by its number or get the latest comic with `latest`.
 ### Info Commands
@@ -176,7 +176,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Get info about the most recent commit that is currently running.
 
-- Usage: `s;commit `
+- Usage: `/commit `
 
 - More info: Merge commits and version bumps are ignored.
 
@@ -185,7 +185,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Check Discord's current status.
 
-- Usage: `s;discordstatus `
+- Usage: `/discordstatus `
 
 - Aliases: `ds`
 , `discstatus`
@@ -196,7 +196,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Provide feedback or bug reports about Sage.
 
-- Usage: `s;feedback <suggestion>`
+- Usage: `/feedback <suggestion>`
 
 - Aliases: `suggest`
 
@@ -205,7 +205,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Provides info about all Sage commands
 
-- Usage: `s;help [command]`
+- Usage: `/help [command]`
 
 - Aliases: `commands`
 , `man`
@@ -218,14 +218,14 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Provides information about Sage.
 
-- Usage: `s;info `
+- Usage: `/info `
 
 
 **leaderboard**
 
 - Description: Gives the top 10 users in the guild
 
-- Usage: `s;leaderboard [page number]`
+- Usage: `/leaderboard [page number]`
 
 - Aliases: `rank`
 , `leader`
@@ -237,14 +237,14 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Runs a connection test to Discord
 
-- Usage: `s;ping `
+- Usage: `/ping `
 
 
 **serverinfo**
 
 - Description: Provides information about the UDCIS discord server.
 
-- Usage: `s;serverinfo `
+- Usage: `/serverinfo `
 
 - Aliases: `serverstats`
 
@@ -253,14 +253,14 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Displays info about Sage's current status
 
-- Usage: `s;stats `
+- Usage: `/stats `
 ### Partial Visibality Question Commands
 
 **anonymous**
 
 - Description: Send an anonymous question in your classes general channel.
 
-- Usage: `s;anonymous [course] <question>`
+- Usage: `/anonymous [course] <question>`
 
 - Aliases: `anon`
 
@@ -271,7 +271,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Archive a private question thread.
 
-- Usage: `s;archive `
+- Usage: `/archive `
 
 - Aliases: `close`
 
@@ -282,21 +282,21 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Send a question to all course staff privately.
 
-- Usage: `s;private [course] <question>`
+- Usage: `/private [course] <question>`
 
 - More info: Sage will automatically determine your course if you are only enrolled in one!
 
 
 **reply**
 
-- Usage: `s;reply `
+- Usage: `/reply `
 ### Question Tagging Commands
 
 **question**
 
 - Description: Filters the questionTags collection for a given class and assignment
 
-- Usage: `s;question [courseID] <assignmentID>`
+- Usage: `/question [courseID] <assignmentID>`
 
 - Aliases: `q`
 
@@ -307,7 +307,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Tags the specified message with a given course and assignment ID.
 
-- Usage: `s;tagquestion <assignmentID>`
+- Usage: `/tagquestion <assignmentID>`
 
 - Aliases: `tagq`
 , `tag`
@@ -321,7 +321,7 @@ More info related to the question tagging system can also be found on [this page
 
 - Description: Cancel any pending reminders you may have.
 
-- Usage: `s;cancelreminder <reminder number>`
+- Usage: `/cancelreminder <reminder number>`
 
 - Aliases: `cr`
 , `removereminder`
@@ -333,7 +333,7 @@ More info related to the question tagging system can also be found on [this page
 
 - Description: Have Sage give you a reminder.
 
-- Usage: `s;remind <reminder> | <duration> | [repeat]`
+- Usage: `/remind <reminder> | <duration> | [repeat]`
 
 - More info: Reminders can be set to repeat daily or weekly.
 
@@ -342,7 +342,7 @@ More info related to the question tagging system can also be found on [this page
 
 - Description: See your upcoming reminders.
 
-- Usage: `s;viewreminders `
+- Usage: `/viewreminders `
 
 - Aliases: `showremind`
 , `showreminders`
