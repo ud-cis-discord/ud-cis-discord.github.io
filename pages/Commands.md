@@ -7,176 +7,127 @@ layout: page
 title: Commands
 permalink: pages/commands
 ---
-Here is a list of all of the commands available for Sage, with the format `/command [arguments]`.
+Here is a list of all of the commands available for Sage, with the format `s;command [arguments]`.
 <br>
 Note, `[argument]` denotes an optional argument while `<argument>` denotes a required argument. Brackets should be omitted when running commands.
 ### General Commands
 
-**assign**
-
-- Description: Use this command to assign a role to yourself! 
-	Use the argument 'list' to see a list of all self-assignable roles.
-
-- Usage: `/assign [Role|list]`
-
-- Aliases: `role`
-
-
 **check**
 
-- Description: Displays the users current message count. 
-	If the word 'here' is used as an argument, the message count will be 
-	sent in the same channel that the command was used in (rather than the user's dms).
+- Description: Displays the users current message count.
 
-- Usage: `/check [here]`
-
-- Aliases: `count`
-
-
-**submit**
-
-- Description: Submit an image to the currently running contest.
-
-- Usage: `/submit [more information]`
-
-- More info: Exactly one file must be attached when running this command.
+- Usage: `s;check `
 ### Configuration Commands
-
-**enroll**
-
-- Description: Enroll yourself in a course.
-
-- Usage: `/enroll <course>`
-
-- Aliases: `unenroll`
-
-- More info: If you use this command on a course you are already enrolled in, you will be unenrolled.
-
 
 **togglelevelpings**
 
 - Description: Toggles whether or not you will receive notifications from Sage on a level up.
 
-- Usage: `/togglelevelpings `
-
-- Aliases: `levelpings`
-, `lp`
+- Usage: `s;togglelevelpings `
 
 
 **togglepii**
 
-- Description: Toggles whether or not your personally identifiable information will be sent by instructors over Discord.
+- Description: Toggles whether your email (pii) will be sent to instructors over Discord.
 
-- Usage: `/togglepii `
-
-- Aliases: `pii`
+- Usage: `s;togglepii `
 ### Fun Commands
 
 **8ball**
 
-- Description: Ask the 8ball a question and you shall get an answer.
+- Description: Ask the 8-ball a question and you shall get an answer.
 
-- Usage: `/8ball [question]`
+- Usage: `s;8ball `
 
-- More info: This command requires you to put a question mark at the end of your question.
+- More info: This command requires you to put a question mark ('?') at the end of your message.
 
 
 **blindfoldedroosen**
 
-- Description: You've been challenged to a sword fight. However, your opponent, Professor Roosen, has decided to wear a blindfold. Feeling lucky?
+- Description: Challenge a blindfolded Prof. Roosen to a sword fight!
 
-- Usage: `/blindfoldedroosen `
+- Usage: `s;blindfoldedroosen `
 
-- Aliases: `br`
-, `bfr`
+- More info: You've been challenged to a sword fight. However, your opponent, Professor Roosen, has decided to wear a blindfold. Feeling lucky?
 
 
 **coinflip**
 
 - Description: Have Sage flip a coin for you!
 
-- Usage: `/coinflip `
-
-- Aliases: `flip`
-, `coin`
-, `cf`
+- Usage: `s;coinflip `
 
 
 **diceroll**
 
-- Description: Get a random integer within a user-specified range (min and max inclusive). If no range is specified, defaults to a range from 1 to 6.
+- Description: Get `numdice` random integers between `minimum` and `maximum`.
 
-- Usage: `/diceroll [min #] | [max #]`
+- Usage: `s;diceroll `
 
-- Aliases: `random`
-, `rand`
-, `dice`
-, `roll`
+- More info: User specified minimum and maximum are inclusive. If no range is specified, defaults to one number ranging from 1 to 6.
 
 
 **doubt**
 
-- Description: Press x to doubt
+- Description: Press X to doubt.
 
-- Usage: `/doubt `
-
-- Aliases: `x`
-
-- More info: This command must be used by replying to a message.
+- Usage: `s;doubt `
 
 
 **f**
 
-- Description: Press F to pay respects
+- Description: Press F to pay respects.
 
-- Usage: `/f `
+- Usage: `s;f `
 
-- Aliases: `respect`
+
+**latex**
+
+- Description: Accepts a LaTeX expression and posts it as a rendered image.
+
+- Usage: `s;latex `
 
 
 **poll**
 
-- Description: Have Sage create a poll for you
+- Description: Have Sage create a poll for you.
 
-- Usage: `/poll <timespan>|<question>|<choices...>`
-
-- Aliases: `vote`
-
-- More info: You can have two to ten choices.
+- Usage: `s;poll `
 
 
 **rockpaperscissors**
 
 - Description: The ultimate battle of human vs program. Can you best Sage in a round of rock paper scissors?
 
-- Usage: `/rockpaperscissors <rock|paper|scissors>`
+- Usage: `s;rockpaperscissors `
 
-- Aliases: `rps`
+
+**submit**
+
+- Description: Submit an image to the current contest. After using this command upload an image in another message
+
+- Usage: `s;submit `
 
 
 **thisisfine**
 
-- Description: everything is fine... probably
+- Description: Everything is fine... probably.
 
-- Usage: `/thisisfine `
-
-- Aliases: `tif`
+- Usage: `s;thisisfine `
 
 
 **xkcd**
 
 - Description: Find a comic from xkcd.
 
-- Usage: `/xkcd [latest | comicNumber]`
-
-- More info: If given no parameters, sends a random comic. You can also specify a comic by its number or get the latest comic with `latest`.
+- Usage: `s;xkcd `
 ### Info Commands
 
 **commit**
 
 - Description: Get info about the most recent commit that is currently running.
 
-- Usage: `/commit `
+- Usage: `s;commit `
 
 - More info: Merge commits and version bumps are ignored.
 
@@ -185,31 +136,21 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Check Discord's current status.
 
-- Usage: `/discordstatus `
-
-- Aliases: `ds`
-, `discstatus`
-, `discordstats`
+- Usage: `s;discordstatus `
 
 
 **feedback**
 
 - Description: Provide feedback or bug reports about Sage.
 
-- Usage: `/feedback <suggestion>`
-
-- Aliases: `suggest`
+- Usage: `s;feedback `
 
 
 **help**
 
 - Description: Provides info about all Sage commands
 
-- Usage: `/help [command]`
-
-- Aliases: `commands`
-, `man`
-, `h`
+- Usage: `s;help `
 
 - More info: If given no arguments, a list of all commands you have access to will be sent to your DMs
 
@@ -218,17 +159,14 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Provides information about Sage.
 
-- Usage: `/info `
+- Usage: `s;info `
 
 
 **leaderboard**
 
 - Description: Gives the top 10 users in the guild
 
-- Usage: `/leaderboard [page number]`
-
-- Aliases: `rank`
-, `leader`
+- Usage: `s;leaderboard `
 
 - More info: Enter a page number to look further down the leaderboard
 
@@ -237,32 +175,28 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Runs a connection test to Discord
 
-- Usage: `/ping `
+- Usage: `s;ping `
 
 
 **serverinfo**
 
 - Description: Provides information about the UDCIS discord server.
 
-- Usage: `/serverinfo `
-
-- Aliases: `serverstats`
+- Usage: `s;serverinfo `
 
 
 **stats**
 
 - Description: Displays info about Sage's current status
 
-- Usage: `/stats `
-### Partial Visibality Question Commands
+- Usage: `s;stats `
+### Partial Visibility Question Commands
 
 **anonymous**
 
 - Description: Send an anonymous question in your classes general channel.
 
-- Usage: `/anonymous [course] <question>`
-
-- Aliases: `anon`
+- Usage: `s;anonymous `
 
 - More info: Sage will automatically determine your course if you are only enrolled in one!
 
@@ -271,9 +205,7 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Archive a private question thread.
 
-- Usage: `/archive `
-
-- Aliases: `close`
+- Usage: `s;archive `
 
 - More info: This command only works in private question threads.
 
@@ -282,37 +214,32 @@ Note, `[argument]` denotes an optional argument while `<argument>` denotes a req
 
 - Description: Send a question to all course staff privately.
 
-- Usage: `/private [course] <question>`
+- Usage: `s;private `
 
 - More info: Sage will automatically determine your course if you are only enrolled in one!
 
 
 **reply**
 
-- Usage: `/reply `
+- Description: Reply to a question you previously asked with Sage.
+
+- Usage: `s;reply `
 ### Question Tagging Commands
 
 **question**
 
 - Description: Filters the questionTags collection for a given class and assignment
 
-- Usage: `/question [courseID] <assignmentID>`
-
-- Aliases: `q`
+- Usage: `s;question `
 
 - More info: Sage will automatically determine your course if you are only enrolled in one!
 
 
 **tagquestion**
 
-- Description: Tags the specified message with a given course and assignment ID.
+- Description: Tags a message with a given course/assignment ID. Must be run in a class-specific channel.
 
-- Usage: `/tagquestion <assignmentID>`
-
-- Aliases: `tagq`
-, `tag`
-
-- More info: This command must be used by replying to a message.
+- Usage: `s;tagquestion `
 
 More info related to the question tagging system can also be found on [this page](https://ud-cis-discord.github.io/pages/Question%20Tagging).
 ### Reminders Commands
@@ -321,10 +248,7 @@ More info related to the question tagging system can also be found on [this page
 
 - Description: Cancel any pending reminders you may have.
 
-- Usage: `/cancelreminder <reminder number>`
-
-- Aliases: `cr`
-, `removereminder`
+- Usage: `s;cancelreminder `
 
 - More info: You can only cancel one reminder at a time
 
@@ -333,7 +257,7 @@ More info related to the question tagging system can also be found on [this page
 
 - Description: Have Sage give you a reminder.
 
-- Usage: `/remind <reminder> | <duration> | [repeat]`
+- Usage: `s;remind `
 
 - More info: Reminders can be set to repeat daily or weekly.
 
@@ -342,13 +266,7 @@ More info related to the question tagging system can also be found on [this page
 
 - Description: See your upcoming reminders.
 
-- Usage: `/viewreminders `
-
-- Aliases: `showremind`
-, `showreminders`
-, `sr`
-, `viewremind`
-, `vr`
+- Usage: `s;viewreminders `
 
 - More info: Don't worry, private reminders will be hidden if you use this command publicly.
 ### Staff Commands
