@@ -28,8 +28,8 @@ will reply by sending you an invite link to the UD CIS Discord server. Once you 
 
 When you verify, Sage may let you know that you've been automatically enrolled in this class. If you have been
 automatically enrolled, great, you can skip the rest of this section. If Sage didn't tell you that you were enrolled in
-this course, simply send `s;enroll 000` in <span style="color:#7289DA">#sages_place</span>. Sage will enroll you in this class and you'll be given access
-to our classes channels. If you are taking more than one CISC class that is using Discord, don't worry, you can enroll
+this course, simply head over to <span style="color:#7289DA">#role_select</span> and find your course(s) in the dropdown menu. Sage will enroll you into any course you select and you'll be given access
+to their course channels. If you are taking more than one CISC class that is using Discord, don't worry, you can enroll
 in as many classes as you need.
 
 * * *
@@ -48,9 +48,9 @@ will have to put `000` in front of your question for both private and Anonymous 
 ### Question Tagging
 
 It can be helpful to look at all the posts that relate to a specific assignment, so we've added a way to do just that.
-To get the list of messages about a specific assignment, send `s;question <assignment>` (without the pointy braces) in
+To get the list of messages about a specific assignment, send `/question <assignment>` (without the pointy braces) in
 <span style="color:#7289DA">#sages_place</span> and Sage will send you the list. If you're enrolled in more than one class you'll have to specify the
-course code before the assignment. If you would like to add a post to the list, reply to the message with `s;tag
+course code before the assignment. If you would like to add a post to the list, reply to the message with `/tag
 <assignment>` (without the pointy braces) and Sage will add that to the list. Again, if you're enrolled in more than one
 class you'll have to specify the course code before the assignment.
 
