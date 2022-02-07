@@ -9,7 +9,7 @@ permalink: /verification/
 ---
 ## Welcome to the UD CIS Department!
 
-To get up and running with the UD CIS Discord server, you'll need to complete a few steps to get verified with us.
+To get up and running with the UD CIS Discord server, you'll need to complete a few steps to get verified with us. If you need a visual walkthrough, there's a quick video [here!](https://youtu.be/eGIBm0lFTLw)
 
 1. **Accept your invite to the gateway server.**
     * In the welcome email, there is a link to get onto the gateway server and a hash. If you did not receive a welcome email, you can request one [here](https://docs.google.com/forms/d/e/1FAIpQLScvT1qb8yh2W8T2D1JK-QK_kaENRfg9UfXXV1YWQHydVg0d6g/viewform?usp=sf_link). Once you click the link, if you already have a Discord account you should log into it and proceed to the server. If you don't have a Discord account, you will need to [create one.][30]
