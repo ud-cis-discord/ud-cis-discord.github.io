@@ -13,7 +13,7 @@ with our question tagging system, reset a user's level, and lookup specific Disc
 
 ## Private Questions
 
-Students can ask private and anonymous messages by DMing Sage directly and using the `/private` and `/anonymous`
+Students can ask private and anonymous messages by using the `/private` and `/anonymous`
 commands. The anonymous questions are sent and should be replied to in your course's general channel, but the following
 information about private questions also applies to anonymous questions if you want to reply to an anonymous question
 privately.
