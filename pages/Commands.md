@@ -15,7 +15,9 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 **check**
 
 - Description: Displays the users current message count.
-### Configuration Commands
+
+- Parameters:
+  - hide (optional): determines if you want stats public or private### Configuration Commands
 
 **togglelevelpings**
 
@@ -33,6 +35,8 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - More info: This command requires you to put a question mark ('?') at the end of your message.
 
+- Parameters:
+  - question (required): The question you want to ask
 
 **blindfoldedroosen**
 
@@ -52,26 +56,41 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - More info: User specified minimum and maximum are inclusive. If no range is specified, defaults to one number ranging from 1 to 6.
 
+- Parameters:
+  - minimum (optional): Minimum of the roll range (defaults to 1)
+  - maximum (optional): Maximum of the roll range (defaults to 6)
+  - numdice (optional): Number of dice to roll (1-10) (defaults to 1)
 
 **doubt**
 
 - Description: Press X to doubt.
 
+- Parameters:
+  - target (required): The user to doubt
 
 **f**
 
 - Description: Press F to pay respects.
 
+- Parameters:
+  - target (optional): The user to pay respects to
 
 **latex**
 
 - Description: Accepts a LaTeX expression and posts it as a rendered image.
 
+- Parameters:
+  - input (required): The LaTeX expression to render
 
 **poll**
 
 - Description: Have Sage create a poll for you.
 
+- Parameters:
+  - timespan (required): How long your poll should last. Acceptable formats include '5s', '5m', '5h', '5h30m', '7h30m15s'...
+  - question (required): What would you like to ask?
+  - choices (required): A poll can have 2-10 choices. Separate choices with '|' (no spaces/quotes).
+  - optiontype (required): Whether participants can only select one choice or multiple.
 
 **rockpaperscissors**
 
@@ -91,7 +110,9 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 **xkcd**
 
 - Description: Find a comic from xkcd.
-### Info Commands
+
+- Parameters:
+  - comic (required): The comic to send. Can be 'latest', 'random', or a number.### Info Commands
 
 **commit**
 
@@ -109,6 +130,8 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - Description: Provide feedback or bug reports about Sage.
 
+- Parameters:
+  - feedback (required): feedback to be sent to the admins
 
 **help**
 
@@ -116,6 +139,8 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - More info: If given no arguments, a list of all commands you have access to will be sent to your DMs
 
+- Parameters:
+  - cmd (optional): command you would like to know more about
 
 **info**
 
@@ -128,6 +153,8 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - More info: Enter a page number to look further down the leaderboard
 
+- Parameters:
+  - pagenumber (optional): leaderboard page to view
 
 **ping**
 
@@ -150,6 +177,9 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - More info: Sage will automatically determine your course if you are only enrolled in one!
 
+- Parameters:
+  - question (required): What would you like to ask?
+  - course (optional): What course chat would you like to ask your question in?
 
 **archive**
 
@@ -164,11 +194,17 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - More info: Sage will automatically determine your course if you are only enrolled in one!
 
+- Parameters:
+  - question (required): What you would like to ask
+  - course (optional): What course chat would you like to ask your question in?
 
 **reply**
 
 - Description: Reply to a question you previously asked with Sage.
-### Question Tagging Commands
+
+- Parameters:
+  - questionid (required): The ID of the question you would like to reply to
+  - response (required): What you would like to reply with### Question Tagging Commands
 
 **question**
 
@@ -176,11 +212,17 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - More info: Sage will automatically determine your course if you are only enrolled in one!
 
+- Parameters:
+  - assignment (required): The ID of the assignment to filter questions from
+  - course (optional): What course would you like to filter questions from?
 
 **tagquestion**
 
 - Description: Tags a message with a given course/assignment ID. Must be run in a class-specific channel.
 
+- Parameters:
+  - message (required): The link of the message you want to tag
+  - assignmentid (required): The assignment name tag to add to this message
 More info related to the question tagging system can also be found on [this page](https://ud-cis-discord.github.io/pages/Question%20Tagging).
 ### Reminders Commands
 
@@ -190,6 +232,8 @@ More info related to the question tagging system can also be found on [this page
 
 - More info: You can only cancel one reminder at a time
 
+- Parameters:
+  - remindernumber (required): ID of the reminder to cancel
 
 **remind**
 
@@ -197,6 +241,10 @@ More info related to the question tagging system can also be found on [this page
 
 - More info: Reminders can be set to repeat daily or weekly.
 
+- Parameters:
+  - content (required): What you'd like to be reminded of
+  - duration (required): When you'd like to be reminded
+  - repeat (optional): How often you want the reminder to repeat
 
 **viewreminders**
 
