@@ -35,8 +35,8 @@ in as many classes as you need.
 
 ### Other Features
 Some of the other key features of Sage are private/anonymous questions and question tagging. Documentation on both can be found at the links below: 
-#### [Private and Anonymous Questions](./private%20and%20anonymous%20questions)
-#### [Question Tagging](./Question%20Tagging)
+#### [Private and Anonymous Questions](/pages/private%20and%20anonymous%20questions)
+#### [Question Tagging](/pages/Question%20Tagging)
 
 [0]: https://discord.com/register
 [1]: https://docs.google.com/forms/d/e/1FAIpQLScvT1qb8yh2W8T2D1JK-QK_kaENRfg9UfXXV1YWQHydVg0d6g/viewform?usp=sf_link
