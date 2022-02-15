@@ -18,10 +18,10 @@ Obviously you or your students will have follow-up questions after a thread has 
 
 1. Click on the pound sign (hashtag, octothorpe, whatever you prefer) in the top right of your course's #general channel: 
 
-    ![Pound sign][1]
+     ![Pound sign][1]
 
 2. On the resulting popup, click on "Archived" to see a list of archived threads. Then, click "Private" to see all of the private questions that have been asked. In a non-example situation, there would be a list of threads that you could click. All you need to do from there is to type in a message and the thread will be unarchived and opened for further discussion. 
 ![Private thread popup][2]
 
-[1]: ../assets/thread.png
-[2]: ../assets/thread_popup.png
+[1]: /assets/icons/threadIcon.png
+[2]: /assets/thread_popup.png
