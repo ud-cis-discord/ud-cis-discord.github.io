@@ -22,7 +22,7 @@ To get up and running with the UD CIS Discord server, you'll need to complete a 
 If you have any problems with the above steps, please contact one of the server's maintainers at
 **[joshlyon@udel.edu][32] | [briross@udel.edu][34]**
 
-   [30]: https://discord.com/register
-   [31]: /assets/icons/memberListIcon.png
-   [32]: mailto:joshlyon@udel.edu
-   [34]: mailto:briross@udel.edu
+[30]: https://discord.com/register
+[31]: /assets/icons/memberListIcon.png
+[32]: mailto:joshlyon@udel.edu
+[34]: mailto:briross@udel.edu

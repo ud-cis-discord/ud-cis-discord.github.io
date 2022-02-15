@@ -119,9 +119,9 @@ are other people in the voice chat, because their names will be displayed under 
 these channels to video chat if you turn your camera on, and there is also a feature to share your screen (similar to
 zoom).
 
-   [1]: https://ud-cis-discord.github.io/verification/
-   [2]:/assets/gifs/togglePing.gif
-   [3]: /assets/icons/memberListIcon.png
-   [4]: https://discord.com/register
-   [5]: /assets/gifs/editQ.gif
-   [6]: /assets/gifs/addingReaction.gif
+[1]: https://ud-cis-discord.github.io/verification/
+[2]:/assets/gifs/togglePing.gif
+[3]: /assets/icons/memberListIcon.png
+[4]: https://discord.com/register
+[5]: /assets/gifs/editQ.gif
+[6]: /assets/gifs/addingReaction.gif

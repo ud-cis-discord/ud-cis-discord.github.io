@@ -51,5 +51,5 @@ users username, Discord ID or an @ mention. This will mute the user and allow th
 ![A gif showing the mute command being used to mute then un-mute user Ren who is presumably being a menace][1]
 
 
-   [0]: /assets/pinnedMessages.png
-   [1]: /assets/gifs/mute.gif
+[0]: /assets/pinnedMessages.png
+[1]: /assets/gifs/mute.gif

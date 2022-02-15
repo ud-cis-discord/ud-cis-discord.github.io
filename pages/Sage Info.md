@@ -34,5 +34,5 @@ Sage has many more features that are explained on this website’s command docum
 If you would like to suggest a new feature, give feedback on current features, or report a bug, you can let the developers know by creating an issue
 on the [public GitHub repository][0] or by contacting us on Discord.
 
-   [0]: https://github.com/ud-cis-discord/SageV2
-   [1]: /assets/sage.png
+[0]: https://github.com/ud-cis-discord/SageV2
+[1]: /assets/sage.png

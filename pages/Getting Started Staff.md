@@ -54,6 +54,6 @@ with the requested information sent to the email that you verified with.
 
 ![A gif of the lookup command being run on Josh Lyon, revealing his email to be joshlyon@udel.edu and his message count to be 147][2]
 
-   [0]: /assets/privThread.png
-   [1]: /assets/gifs/resetLevel.gif
-   [2]: /assets/gifs/lookup.gif
+[0]: /assets/privThread.png
+[1]: /assets/gifs/resetLevel.gif
+[2]: /assets/gifs/lookup.gif
