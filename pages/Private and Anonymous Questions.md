@@ -35,7 +35,7 @@ You can use the `/anonymous` command followed by any question and Sage will send
 ![Running the anonymous command with two arguments, the "question": "Why do we use pointers" and the "course": "210"][0]
 ---
 
-If you would like to continue the conversation anonymously, you can simply use the `/reply` command with the question ID and your response and Sage will send your response to your courses general channel: 
+If you would like to continue the conversation anonymously, you can simply use the `/reply` command with the question ID and your response, then Sage will send your response to your courses general channel: 
 
 ![Using the reply command with the questionID '9245' and response 'I still don't get it, could you link docs?'][2]
 

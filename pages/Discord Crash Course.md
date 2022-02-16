@@ -73,7 +73,7 @@ mobile), or the esc button to cancel the edit (press the x above the message on 
 #### <a name="pinging"></a> **Pinging people:**
 
 Similarly to Twitter, Discord has a feature that allows you to @ people on the same server as you. This is called a ping,
-and it is done by putting an @ in front of someone's Discord name when sending a message. For example:
+and it is done by putting an @ in front of someone's Discord name when sending a message. It notifies the person directly, adds a (1) to the Discord icon in their notifications bar, and sends them a notification on both desktop Discord and mobile. For example:
 
 <img src="/assets/gifs/ping.gif" alt="A gif of a message being sent to Sage, by pinging Sage with the @ symbol.">
 

@@ -48,7 +48,7 @@ case they are needed. Your primary tool to deal with spammers is to mute them. T
 send messages in any normal channel. To mute a user use the mute command by sending `/mute <user>` where `<user>` is a
 users username, Discord ID or an @ mention. This will mute the user and allow the admin team to deal with the situation.
 
-![A gif showing the mute command being used to mute then un-mute user Ren who is presumably being a menace][1]
+![A gif showing the mute command being used to mute then un-mute user Ren, who is presumably being a menace][1]
 
 
 [0]: /assets/pinnedMessages.png

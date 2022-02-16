@@ -20,9 +20,11 @@ To get up and running with the UD CIS Discord server, you'll need to complete a 
    * After you send your hash, Sage will reply with an invite to the main server. Click **Join** to accept, at which time you'll be directed to the welcome page of our shiny UD CIS Discord server!
 
 If you have any problems with the above steps, please contact one of the server's maintainers at
-**[joshlyon@udel.edu][32] | [briross@udel.edu][34]**
+**[bladetyr@udel.edu][35] | [sbrugel@udel.edu][36] | [joshlyon@udel.edu][32] | [briross@udel.edu][34]**
 
 [30]: https://discord.com/register
 [31]: /assets/icons/memberListIcon.png
 [32]: mailto:joshlyon@udel.edu
 [34]: mailto:briross@udel.edu
+[35]: mailto:bladetyr@udel.edu
+[36]: mailto:sbrugel@udel.edu
