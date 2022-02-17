@@ -16,10 +16,10 @@ both positive and negative moderation tools.
 ### Pinning Messages
 
 If you see a message that you think will be useful and relevant for the whole course, you can pin it. To pin a message,
-click the three dots in the message header (or long press the message if on mobile) and select <img src="https://canvas.instructure.com/courses/2510334/files/124443682/preview?verifier=awBOcfTxY3hQRyuxR2a9EjdOdaCdZ27iSiAtxoZi" alt="Pin Message" height="35" width="161">. This
+click the three dots in the message header (or long press the message if on mobile) and select <img src="/assets/pinButton.png" alt="Pin Message" height="35" width="161">. This
 will add the message to the channels pins where all will be able to quickly see it.
 
-![The pinned messages module containing an example pinned message.][16]
+![The pinned messages module containing an example pinned message.][0]
 
 * * *
 
@@ -35,7 +35,7 @@ appropriate staff channel (unless the message was send in the general category) 
 you are taking appropriate action.  
 You can also directly delete messages if necessary. The warn command is usually the preferred method of deleting messages
 but sometimes you may need to delete multiple messages or messages that are spammy. To delete a message manually, click
-the three dots in the message header (or long press the message if on mobile) and select <img src="https://canvas.instructure.com/courses/2510334/files/125784208/preview?verifier=Bvh1W25iaZTR8aBjPibYR3xM1OUT937JdGU9klMX" alt="Delete Message" height="35" width="161">. This
+the three dots in the message header (or long press the message if on mobile) and select <img src="/assets/deleteButton.png" alt="Delete Message" height="35" width="161">. This
 will delete the message from the channel. It will also be logged and Admins will be able to tell you deleted a users
 message.
 
@@ -48,4 +48,8 @@ case they are needed. Your primary tool to deal with spammers is to mute them. T
 send messages in any normal channel. To mute a user use the mute command by sending `/mute <user>` where `<user>` is a
 users username, Discord ID or an @ mention. This will mute the user and allow the admin team to deal with the situation.
 
-   [16]: https://canvas.instructure.com/courses/2510334/files/124443807/preview?verifier=YCC0eHUv2vMLVAK3SSOImnPDm6YmtHTT2M0wnSoZ
+![A gif showing the mute command being used to mute then un-mute user Ren, who is presumably being a menace][1]
+
+
+[0]: /assets/pinnedMessages.png
+[1]: /assets/gifs/mute.gif

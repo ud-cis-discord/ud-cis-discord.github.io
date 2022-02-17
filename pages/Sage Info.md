@@ -8,6 +8,8 @@ title: About Sage
 permalink: /sage_info/
 ---
 
+<img src="/assets/sage.png" width="50%">
+
 ## What is a Discord Bot?
 
 A Discord bot—generally speaking—is an AI that can send messages, moderate, and interact with Discord users in all sorts of unique ways. Bots add a lot of functionality to Discord servers, like moderation and student verification, and can be customized to suit our needs.
@@ -30,6 +32,7 @@ Sage adds a lot of useful functionality to the UD CIS server. Some of the most i
 Sage has many more features that are explained on this website’s command documentation. You can also bring up a list of commands via Discord, by entering `/help` in any channel on the UD CIS server.
 
 If you would like to suggest a new feature, give feedback on current features, or report a bug, you can let the developers know by creating an issue
-on the [public GitHub repository][28] or by contacting us on Discord.
+on the [public GitHub repository][0] or by contacting us on Discord.
 
-   [28]: https://github.com/ud-cis-discord/SageV2
+[0]: https://github.com/ud-cis-discord/SageV2
+[1]: /assets/sage.png

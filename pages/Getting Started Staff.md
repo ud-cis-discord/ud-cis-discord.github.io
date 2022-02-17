@@ -18,12 +18,11 @@ commands. The anonymous questions are sent and should be replied to in your cour
 information about private questions also applies to anonymous questions if you want to reply to an anonymous question
 privately.
 
-A private question asked by a student will be sent to your course's staff channel and look like this:
+A private question asked by a student will open a private thread under your course's general channel and look like this. 
 
-![privateq.png][10]
+![A private thread opened by Josh Lyon][0]
 
-As the instructions on the message state, you can reply to these questions by using the `/sudoreply <questionID>
-<response>` command. This will send your response to the student that asked the question's DMs.
+As the instructions on the message state, you can reply to these questions by replying in the thread that was created.
 
 ## Adding Assignments
 
@@ -44,11 +43,17 @@ For example, if user bobby's message count is 20 and you call `/resetlevel bobby
 be 15. If you instead called `/resetlevel bobby 27`, bobby's message count would be set to 27. Lastly, if you called
 `/resetlevel bobby`, bobby's message count would be reset to 0.
 
+![A gif of the resetlevel command being called on Josh, subtracting 10 from his message count][1]
+
 ## User Lookup
 
 To look up a specific user's real life information based on the Discord account they verified with, you can use the
 `/lookup <user>` command. This command takes one argument, the user to look up. If the user has opted in to having
-their information shared over Discord, Sage will DM it to you directly. If they haven't opted in, you will get an email
+their information shared over Discord, Sage will show it to you directly. If they haven't opted in, you will get an email
 with the requested information sent to the email that you verified with.
 
-   [10]: https://canvas.instructure.com/courses/2510334/files/124105146/preview?verifier=PuNjlfNMIEUp62pbsXi77LMe1m2oQVahbyW48AEt
+![A gif of the lookup command being run on Josh Lyon, revealing his email to be joshlyon@udel.edu and his message count to be 147][2]
+
+[0]: /assets/privThread.png
+[1]: /assets/gifs/resetLevel.gif
+[2]: /assets/gifs/lookup.gif
