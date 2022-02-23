@@ -60,6 +60,7 @@ Note, any arguments to the commands will be shown with descriptions when you sel
   - minimum (optional): Minimum of the roll range (defaults to 1)
   - maximum (optional): Maximum of the roll range (defaults to 6)
   - numdice (optional): Number of dice to roll (1-10) (defaults to 1)
+  - keephighest (optional): How many dice to keep/total (defaults to the number of dice you're rolling)
 
 **doubt**
 
