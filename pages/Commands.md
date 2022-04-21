@@ -50,6 +50,13 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 - Description: Have Sage flip a coin for you!
 
 
+**define**
+
+- Description: Find the definition of a word.
+
+- Parameters:
+  - word (required): The word to define
+
 **diceroll**
 
 - Description: Get `numdice` random integers between `minimum` and `maximum`.
