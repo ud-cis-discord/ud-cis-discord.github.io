@@ -33,7 +33,7 @@ jobs:
         run: |
           cd pages
           waltz init
-          waltz configure canvas docs --base https://canvas.instructure.com/ --course 2510334 --token "$CANVAS_API"
+          waltz configure canvas docs --base https://udel.instructure.com/ --course 1613901 --token "$CANVAS_API"
       # Uploads pages to canvas
       - name: Upload Pages
         run: |

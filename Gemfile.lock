@@ -212,7 +212,11 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.3)
     multipart-post (2.1.1)
+    nokogiri (1.11.1-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.11.1-x64-mingw32)
+      racc (~> 1.4)
+    nokogiri (1.11.1-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.11.1-x86_64-linux)
       racc (~> 1.4)
@@ -261,12 +265,14 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
+  universal-darwin-20
   x64-mingw32
   x86_64-linux
 
 DEPENDENCIES
   github-pages (~> 207)
   jekyll-feed (~> 0.12)
+  jekyll-redirect-from
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data

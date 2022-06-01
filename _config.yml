@@ -36,9 +36,11 @@ header_pages:
   - pages/Sage Info.md
   - pages.md
   - staff pages.md
+  - pages/blocklist.md
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 include: 
   - pages
