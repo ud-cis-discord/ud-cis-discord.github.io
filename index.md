@@ -27,4 +27,4 @@ hope is that this will become both an education tool and a place for people to c
 ### [For staff](/staff_pages/)
 
 ## Other questions?
-### Ask on the server or send an email to [Ben](mailto:bensegal@udel.edu), [Josh](mailto:joshlyon@udel.edu), or [Ren](mailto:briross@udel.edu).
+### Ask on the server or send an email to [Ren](mailto:briross@udel.edu), [Blade](mailto:bladetyr@udel.edu), or [Simon](mailto:sbrugel@udel.edu).
