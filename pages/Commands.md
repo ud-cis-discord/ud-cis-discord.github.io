@@ -109,6 +109,9 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - Description: Submit an image to the current contest. After using this command upload an image in another message
 
+- Parameters:
+  - file (required): A file to be submitted
+  - description (optional): Description of your submission
 
 **thisisfine**
 
@@ -140,6 +143,7 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - Parameters:
   - feedback (required): feedback to be sent to the admins
+  - file (optional): A file to be posted with the feedback
 
 **help**
 
@@ -188,6 +192,7 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 - Parameters:
   - question (required): What would you like to ask?
   - course (optional): What course chat would you like to ask your question in?
+  - file (optional): A file to be posted with the question
 
 **archive**
 
@@ -212,7 +217,8 @@ Note, any arguments to the commands will be shown with descriptions when you sel
 
 - Parameters:
   - questionid (required): The ID of the question you would like to reply to
-  - response (required): What you would like to reply with### Question Tagging Commands
+  - response (required): What you would like to reply with
+  - file (optional): A file to be posted with the reply### Question Tagging Commands
 
 **question**
 
