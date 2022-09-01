@@ -5,3 +5,4 @@ _site
 vendor
 .waltz
 .waltz.db
+.github/workflows/canvasSync.yml
