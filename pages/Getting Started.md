@@ -23,7 +23,7 @@ please wait patiently for our onboarding process to begin (typically the day bef
 Otherwise, you should have already received an email from Sage, the bot that manages our Discord server. 
 If you have not, you can request one [here][1]. In that email you will find a link to our server and a unique hash code. 
 Click the link to join the server and follow the instructions given in the <span style="color:#7289DA">#getting-verified</span> channel.
-Once you have followed those instructions, you have officially veen verified!
+Once you have followed those instructions, you have officially been verified!
 
 ### Enrolling in a course 
 
