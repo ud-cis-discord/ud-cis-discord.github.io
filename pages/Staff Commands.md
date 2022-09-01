@@ -23,6 +23,13 @@ commands in staff-only channels.
   - course (required): The course ID to add an assignment to
   - newassignments (required): A | separated list of new assignments
 
+**blockpy**
+
+- Description: Emails you a link to the students blockpy submissions
+
+- Parameters:
+  - user (required): The member to look up
+
 **google**
 
 - Description: Have Sage google something for someone
