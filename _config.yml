@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: UD CIS Discord
-email: Ren Ross<briross@udel.edu>, Blade Tyrrell<bladetyr@udel.edu>, Simon Brugel<sbrugel@udel.edu>
+email: Blade Tyrrell<bladetyr@udel.edu>, Leo Chen<leochen@udel.edu>, Matthew Nadar<matthewn@udel.edu>, Simon Brugel<sbrugel@udel.edu>
 description: >- # this means to ignore newlines until "baseurl:"
   Information and documentation about the UD CIS Discord server.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  ud-cis-discord
+github_username: ud-cis-discord
 
 # Build settings
 markdown: GFM
@@ -42,7 +42,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-include: 
+include:
   - pages
 
 # Exclude from processing.
