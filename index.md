@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 ---
+
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
 ![Welcome](/welcome.png "Welcome")
@@ -9,31 +10,39 @@ permalink: /
 Here you will find all the information you need to get started on the UD CIS Discord server.
 
 ## Why Discord?
+
 Discord is a quick and easy instant messaging platform that allows for the organization and sharing of ideas and information. Unlike Piazza, where students post an issue and wait for course staff to get an email notification and reply, Discord allows students to get a reply within minutes from either fellow classmates or an online TA/LA/Professor. Students are also able to talk with fellow computer science students about their interests, experiences, and projects. This allows them to integrate into the computer science community easily, especially with the current global situation.
 
-Discord is both an educational tool and a place for CISC students to gather, chat, and form a community where everyone is welcome and questions are encouraged. Cheating and/or wrongfully sharing code is actively prohibited and moderated by Discord admins and course staff. 
+Discord is both an educational tool and a place for CISC students to gather, chat, and form a community where everyone is welcome and questions are encouraged. Cheating and/or wrongfully sharing code is actively prohibited and moderated by Discord admins and course staff.
 
 ## Ready to get started?
+
 ### First, read our [rules](#rules). Then, [hop on over here](/getting_started/).
 
 ## New to Discord?
+
 ### [Check out our crash course here](/crash_course/)
 
 ## Looking for information about our bot Sage?
+
 ### [That's over here](/sage_info/)
 
 ## Want more in depth guides?
+
 ### [For everyone](/pages/)
+
 ### [For staff](/staff_pages/)
+
 <br>
 
 ## <a name="rules"></a>Server Rules
+
 0. Be respectful to everyone. Rudeness will not be tolerated, everyone deserves respect regardless of their individual beliefs and opinions.
 1. Discussions are encouraged, but if you have to resort to insults or fallacies to get your point across it is no longer a discussion. Cite your sources for any claims you make.
 2. Please keep conversations to relevant channel topics. If a Staff member or Admin asks you to move your conversation, you must listen.
 3. Do not spam. This applies to emojis, pictures, messages, pings, etc. Just don't spam.
 4. Keep your language appropriate - don't say something you wouldn't say to your professor.
-5. Rules for the course you are taking apply here. This includes your professor’s policy about sharing code. If you need to share code to ask a question in your course channels, you must use the private question command. Refer to this link for more information: https://ud-cis-discord.github.io/pages/commands 
+5. Rules for the course you are taking apply here. This includes your professor’s policy about sharing code. If you need to share code to ask a question in your course channels, you must use the private question command. Refer to this link for more information: https://ud-cis-discord.github.io/pages/commands
 6. Respect what the Staff and Admins say, they are in charge for a reason. If they tell you to stop, then stop.
 7. The UD Code of Conduct applies to all activity on this server. For more information, refer to the following link: http://www1.udel.edu/stuguide/20-21/code.html
 
@@ -59,6 +68,6 @@ Discord is both an educational tool and a place for CISC students to gather, cha
 </details>
 <br>
 
-
 ## Other questions?
-### Ask on the server or send an email to [Ren](mailto:briross@udel.edu), [Blade](mailto:bladetyr@udel.edu), or [Simon](mailto:sbrugel@udel.edu).
+
+### Ask on the server or send an email to [Blade](mailto:bladetyr@udel.edu), [Simon](mailto:sbrugel@udel.edu), [Leo](mailto:leochen@udel.edu), or [Matt](mailto:mattnadar@udel.edu).
