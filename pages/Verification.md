@@ -20,10 +20,10 @@ To get up and running with the UD CIS Discord server, you'll need to complete a 
     you will gain access to the full server!
 
 If you have any problems with the above steps, please contact one of the guild's maintainers at
-**[briross@udel.edu][32] | [bladetyr@udel.edu][33] | [sbrugel@udel.edu][34]**
+**[leochen@udel.edu][32] | [matthewn@udel.edu][33] | [sbrugel@udel.edu][34]**
 
    [30]: https://discord.com/register
    [31]: https://canvas.instructure.com/courses/2510334/files/124088926/preview?verifier=VMd62xM4U5qKtQeGPctJsjmUBQSOVZq6p7JYQzWw
-   [32]: mailto:briross@udel.edu
-   [33]: mailto:bladetyr@udel.edu
+   [32]: mailto:leochen@udel.edu
+   [33]: mailto:matthewn@udel.edu
    [34]: mailto:sbrugel@udel.edu
