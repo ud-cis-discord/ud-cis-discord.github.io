@@ -61,4 +61,4 @@ Discord is both an educational tool and a place for CISC students to gather, cha
 
 
 ## Other questions?
-### Ask on the server or send an email to [Matthew](mailto:matthewn@udel.edu), [Haiya](mailto:haiyap@udel.edu), or Soffie(mailto:soffie@udel.edu).
+### Ask on the server or send an email to [Matthew](mailto:matthewn@udel.edu), [Haiya](mailto:haiyap@udel.edu), or [Soffie](mailto:soffie@udel.edu).
